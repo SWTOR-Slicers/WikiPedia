@@ -44,6 +44,7 @@ We can simply drop the file inside the folder and overwrite any older hash file 
 
 Every time we launch EasyMYP.exe, we'll see first a brief progress bar showing that it is reading the contents of the hash file. Once done, it'll show its simple interface. Of the many options the app has, we'll use just a few ones, mainly in Archive and Files.
 
+<br/><br/>
 ![](images/extracting/easymyp/easymyp_guide_020.png)
 
 #### Extracted items' destination
