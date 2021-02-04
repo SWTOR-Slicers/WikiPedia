@@ -31,7 +31,7 @@ To be of use, we'll need to download the most current hashes file (a file holdin
 
 EasyMYP, once unzipped, appears as a single folder that can be placed anywhere in our computers (such as, for example, the desktop folder), no installation process needed. Its interesting bits are:
 
-<div style="float:left;"><img src="images/extracting/easymyp/easymyp_guide_010.png"></div>
+<img align="left" src="images/extracting/easymyp/easymyp_guide_010.png">
 
 - **EasyMYP.exe**: that's the app as such.
 
@@ -44,6 +44,7 @@ We can simply drop the file inside the folder and overwrite any older hash file 
 
 Every time we launch EasyMYP.exe, we'll see first a brief progress bar showing that it is reading the contents of the hash file. Once done, it'll show its simple interface. Of the many options the app has, we'll use just a few ones, mainly in Archive and Files.
 
+<br/><br/><br/>
 ![](images/extracting/easymyp/easymyp_guide_020.png)
 
 #### Extracted items' destination
