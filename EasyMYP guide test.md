@@ -27,7 +27,7 @@ We can simply drop the file inside the folder and overwrite any older hash file 
 
 Every time we launch EasyMYP.exe, we'll see first a brief progress bar showing that it is reading the contents of the hash file. Once done, it'll show its simple interface. Of the many options the app has, we'll use just a few ones, mainly in Archive and Files.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_020.png)
+![](images/extracting/easymyp/easymyp_guide_020.png)
 
 **Saved items' location**
 
@@ -37,7 +37,7 @@ An important decision to take is where to store the results of its usage, for th
 
 So, we start by telling EasyMYP where we want to store all the extracted stuff through File > Select Extraction Folder. If we would happen to forget to do it, the app will ask us the first time we do an extraction, anyway. It can be set through the Options menu, too. Ultimately, it can even be set by opening the EasyMYP.config file in Notepad and typing the folder's directory path.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_030.png)
+![](images/extracting/easymyp/easymyp_guide_030.png)
 
 **Opening and exploring the game's asset files**
 
@@ -45,7 +45,7 @@ In Windows 10 those are typically stored at C:\Program Files (x86)\Electronic Ar
 
 There, we'll find a lot of files with the .tor extension and fairly informative names.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_040.png)
+![](images/extracting/easymyp/easymyp_guide_040.png)
 
 The most interesting files are the ones containing an "art" in their names:
 
@@ -59,61 +59,61 @@ The rest of the stuff relates to game audio and translations, animation and FX s
 
 Let’s say we open "swtor\_main\_art\_creature\_b\_1.tor", which ought to contain a few animals from the game. Get to Archive > Open Archive, navigate to SWTOR’s Assets folder and open that file.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_060.png)
+![](images/extracting/easymyp/easymyp_guide_060.png)
 
 After a few seconds of processing (no progress bars 😕 ), it’ll show up in the left side pane:
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_070.png)
+![](images/extracting/easymyp/easymyp_guide_070.png)
 
 We can see the contents of the file by clicking on the Archive File List tab, but it’s more interesting to see them by twirling the little + widget at its left, because it’ll show them in their hierarchical organization structure, which will reflect how they will be saved in the extraction folder that we chose (or will choose the first time we do an export).
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_080.png)
+![](images/extracting/easymyp/easymyp_guide_080.png)
 
 Out of that first twirl, we’ll see that there’s a lot of files with unintelligible names, and a folder. The former are assets in that .tor file that we still don’t know what they are (they are not in the hash file yet). Those can be saved and examined: EasyMYP will put them in a subfolder with the same name as the .tor file so that things aren’t too messy.
 
 It’s that lone folder where the really interesting stuff starts:
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_090.png)
+![](images/extracting/easymyp/easymyp_guide_090.png)
 
 What we see here are folders where models (.gr2 archives) and textures (.dds archives) are stored. We can begin to get a feel of how things are organized: the “dynamic” folder contains all elements that are animated in the game. The “materials” one contains text files describing what textures correspond to which models, etc.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_100.png)
+![](images/extracting/easymyp/easymyp_guide_100.png)
 
 I should warn you that Bioware isn’t the tidiest developer ever: sometimes things are a bit disorderly, surely out of adding things to the game in ways they hadn’t anticipated before launch.
 
 So, we might want to export a single item:
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_110.png)
+![](images/extracting/easymyp/easymyp_guide_110.png)
 
 Or a bunch of items: a whole folder, for example, which is better because sometimes the meshes and textures are in the same folder although grouped into subfolders.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_120.png)
+![](images/extracting/easymyp/easymyp_guide_120.png)
 
 Or one could just extract all the contents of the .tor file and decide what to keep and what to delete afterwards.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_130.png)
+![](images/extracting/easymyp/easymyp_guide_130.png)
 
 (By the way, we can open several .tor files during the same session and explore them all this way)
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_140.png)
+![](images/extracting/easymyp/easymyp_guide_140.png)
 
 The thing is, this isn’t the most efficient way to work, especially if we look forward to building whole scenes with landscapes, rooms, props, pets, characters, etc. As all those assets are spread over many .tor files, and the way one looks for them out of swtor.jedipedia.net’s data requires to look inside the game’s XML text files that describe their use, it’s best to just batch-export all the .tor files having to do with 3d models. EasyMYP has an option to extract the stuff inside all the .tor files contained in a folder:
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_150.png)
+![](images/extracting/easymyp/easymyp_guide_150.png)
 
 A batch extraction of all the 3D models and related files will fill some 40-50 GB. An extraction of just *everything*, including audio files, GTN items’ icons, maps, etc. will fill about 100 GB.
 
 How do we separate the .tor files we want to process from the ones we don’t? By temporarily putting them inside a folder (inside Assets or somewhere else), processing them, and putting them back into Assets afterwards.<u><br></u>
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_160.png)
+![](images/extracting/easymyp/easymyp_guide_160.png)
 
 So, we click on “Extract All from Folder”. TorMYP will ask we where that folder is, and we point it at it.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_170.png)
+![](images/extracting/easymyp/easymyp_guide_170.png)
 
 Then it asks us a curious question:
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_180.png)
+![](images/extracting/easymyp/easymyp_guide_180.png)
 
 What does this mean? EasyMYP is offering us to extract everything (“No” option 🤨) or only the XML text files describing how the assets are organized (“Yes” option): those .xml files tell us, for example, which objects are used to build, say, a chest armor piece, and where they are and what material file is associated with them… which in turn will tell us which texture files it uses and where they are, and what color scheme file is applicable… which in turn will describe what colors the armor will use because oftentimes a same armor object shows up as different items just by changing some colors…
 
@@ -123,7 +123,7 @@ So, we choose "no".
 
 Before proceeding, EasyMYP will show a dialog window telling us what’s about to do, giving us a chance to backtrack. Then it’ll start going .tor file by .tor file. They’ll accumulate in the left side pane, which is a way to measure its progress.
 
-![](/Volumes/RECURSOS/3D SWTOR/GITHUB/WikiPedia/images/extracting/easymyp/easymyp_guide_190.png)
+![](images/extracting/easymyp/easymyp_guide_190.png)
 
 A warning, though: I’ve noticed that sometimes EasyMYP crashes while processing the biggest of those files, so, I’d keep an eye on its progress. If it happens to crash, we can move the files it already processed out of the temporary folder and back to the Assets one, then relaunch the operation. If we didn’t happen to see in which one the crash occurred, a trick to know it is to look at the contents of the folder storing the results: there ought to be subfolders with the same names as the .tor files it has processed. Just check which was the last one, and restart from there.
 
