@@ -31,7 +31,7 @@ To be of use, we'll need to download the most current hashes file (a file holdin
 
 EasyMYP, once unzipped, appears as a single folder that can be placed anywhere in our computers (such as, for example, the desktop folder), no installation process needed. Its interesting bits are:
 
-<img style="float:left;" src="images/extracting/easymyp/easymyp_guide_010.png">
+<img align="left" src="images/extracting/easymyp/easymyp_guide_010.png">
 
 - **EasyMYP.exe**: that's the app as such.
 
