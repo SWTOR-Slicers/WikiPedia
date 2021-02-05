@@ -218,9 +218,9 @@ In the Outliner, twirling the objects' little left-side arrows, we can see their
 
 We see that sometimes there are two materials in an object instead of a single one. That usually happens in three cases:
 
-* • A head that has a skin material and an eyes material.
-* • A "hair piece" such as a Zabrak's horn plus hair object, which has materials for the hair and the horns.
-* • A piece of armor that shows skin. As SWTOR replaces whole body parts with corresponding pieces of armor, those need to incorporate the skin of the body part they replace, which uses its own material.
+* A head that has a skin material and an eyes material.
+* A "hair piece" such as a Zabrak's horn plus hair object, which has materials for the hair and the horns.
+* A piece of armor that shows skin. As SWTOR replaces whole body parts with corresponding pieces of armor, those need to incorporate the skin of the body part they replace, which uses its own material.
 
 In such cases, we would replace each of those materials with the relevant template ones. Say, the head body part would use the SkinB Shader for the first material and the Eye Shader for the second one. 
 
