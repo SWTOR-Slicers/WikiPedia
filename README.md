@@ -178,8 +178,6 @@ Now that we have the game assets extracted, it's time to learn how to find the o
 
 
 
-
-
 ### Importing the models into Blender with the .gr2 add-on
 
 If you followed older guides based on the use of Noesis to convert SWTOR assets to usable formats (.obj 3D files and .png image ones, tipically), be aware that we no longer need such conversions thanks to LeeThorogood's .gr2 import/export add-on for Blender, the 3D app of choice out of both its ample capabilities and zero cost.
