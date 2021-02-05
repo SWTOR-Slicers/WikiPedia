@@ -16,6 +16,12 @@ introduction...
 
 ## Extracting
 
+### Section Contents
+
+| Topics | Topics |
+| :---: | :---: |
+| EasyMYP | Locating files |
+
 ### Extracting SWTOR's Resources With EasyMYP
 
 EasyMYP is a game assets extracting tool. There is an specific SWTOR-compatible version, sometimes alluded to as "TorMYP", which allows us to inspect SWTOR's .tor asset files, extract specific items or groups of items from them, and even extract the assets of a whole folder of .tor files in one go.
