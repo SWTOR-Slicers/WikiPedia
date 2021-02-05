@@ -170,6 +170,7 @@ The "ext:" bit makes sure that you are selecting the mesh and texture files and 
 
 Now that we have the game assets extracted, it's time to learn how to find the ones we need to assemble characters, armor, weapons, vehicles, and environments.
 
+
 ## Modding
 
 ## Datamining
