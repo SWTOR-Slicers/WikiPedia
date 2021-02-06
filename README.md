@@ -75,7 +75,7 @@ The most interesting files are the ones containing an "art" in their names:
 
 - Filenames starting with “swtor\_main\_art\_dynamic\_”: those contain body parts, armor parts, and some single piece characters and creatures. These are the ones we will be most interested in if we want to do character-related stuff.
 
-- Filenames starting with “swtor\_main\_art\_area\_”: they contain terrain and buildings’ parts: whole mountains, bridges, buildings and empty rooms; or “construction sets” involving walls, furniture, road parts, etc. Don't confuse them with the ones starting with "swtor\_main\_area\_" without the "\_art\_", as those are maps.
+- Filenames starting with “swtor\_main\_area\_” and “swtor\_main\_art\_area\_”: they contain terrain and buildings’ parts: whole mountains, bridges, buildings and empty rooms; or “construction sets” involving walls, furniture, road parts, etc. It holds spaceship interiors and exteriors, too. Don't confuse them with the ones starting with "swtor\_en-us\_area\_" without the "\_art\_", as those don't contain any such asset.
 
 - Other filenames containing the "\_art\_" word: we can find in them weapons, ships, vehicles, "farming" items (crystals, crates, etc.).
 
