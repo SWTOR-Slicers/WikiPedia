@@ -16,6 +16,12 @@ introduction...
 
 ## Extracting
 
+### Section Contents
+
+| Topics | Topics |
+| :---: | :---: |
+| EasyMYP | Locating files |
+
 ### Extracting SWTOR's Resources With EasyMYP
 
 EasyMYP is a game assets extracting tool. There is an specific SWTOR-compatible version, sometimes alluded to as "TorMYP", which allows us to inspect SWTOR's .tor asset files, extract specific items or groups of items from them, and even extract the assets of a whole folder of .tor files in one go.
@@ -67,15 +73,17 @@ There, we'll find a lot of files with the .tor extension and fairly informative 
 
 The most interesting files are the ones containing an "art" in their names:
 
-- Filenames starting with “swtor\_main\_art\_dynamic\_”: those contain body parts, armor parts, and some single piece characters and creatures. These are the ones we will be most interested in if we want to do character-related stuff.
+- Filenames starting with “swtor\_main\_art\_dynamic\_”: those contain body parts and armor parts the game builds our characters and companions out of. These are the ones we will be most interested in if we want to do character-related stuff.
 
-- Filenames starting with “swtor\_main\_art\_area\_”: they contain terrain and buildings’ parts: whole mountains, bridges, buildings and empty rooms; or “construction sets” involving walls, furniture, road parts, etc. Don't confuse them with the ones starting with "swtor\_main\_area\_" without the "\_art\_", as those are maps.
+- Filenames starting with “swtor\_main\_area\_” and “swtor\_main\_art\_area\_”: they contain terrain and buildings’ parts: whole mountains, bridges, buildings and empty rooms; or “construction sets” involving walls, furniture, road parts, etc. It holds spaceship interiors and exteriors, too. Don't confuse them with the ones starting with "swtor\_en-us\_area\_" without the "\_art\_", as those don't contain any such asset.
+
+- Filenames containing the "creature" word: those refer to beasts, characters and others that are built as full body single meshes: say, an early Darth Malgus, an Akk dog.
 
 - Other filenames containing the "\_art\_" word: we can find in them weapons, ships, vehicles, "farming" items (crystals, crates, etc.).
 
-The rest of the stuff relates to game audio and translations, animation and FX scripts, user interface art (for example, all the Galactic Trade Network and Cartel Market images, abilities icons, etc.), maps, etc. They are quite interesting, actually, but we can omit them and save a lot of hard disk space.
+The rest of the stuff relates to game audio and conversations ("\_bnk\_"), animation and FX scripts ("\_anim\_"), user interface art ("\_gfx\_") such as all the Galactic Trade Network and Cartel Market images, abilities icons, etc., maps, etc. They are quite interesting, actually, but we can omit them and save a lot of hard disk space.
 
-Let’s say we open "swtor\_main\_art\_creature\_b\_1.tor", which ought to contain a few animals from the game. Get to Archive > Open Archive, navigate to SWTOR’s Assets folder and open that file.
+Let's see how the app works with these files. Let’s say we open "swtor\_main\_art\_creature\_b\_1.tor", which ought to contain a few animals from the game. Get to Archive > Open Archive, navigate to SWTOR’s Assets folder and open that file.
 
 ![](images/extracting/easymyp/easymyp_guide_060.png)
 
@@ -120,7 +128,11 @@ Or one could just extract all the contents of the .tor file and decide what to k
 
 ### Exporting several whole .tor files' assets in one go
 
-The thing is, all this isn’t the most efficient way to work if we look forward to building whole scenes with landscapes, rooms, props, pets, characters, etc. As all those assets are spread over many .tor files, and the way one looks for them out of swtor.jedipedia.net or torcommunity.com’s data requires to look inside the game’s XML text files that describe their use, it’s best to just batch-export all the .tor files having to do with 3d models. EasyMYP has an option to extract the stuff inside all the .tor files contained in a folder:
+Sadly, all this isn’t the most efficient way to work if we look forward to building whole scenes with landscapes, rooms, props, pets, characters, etc., or even if we just want to recreate our player characters. At first, we used to suggest extracting the stuff from just a type of files (the character parts ones, or the architectural ones, etc.), but, frankly, everything is so spread around that one always ends up missing something and losing massive amounts of time trying to locate it.
+
+Given that, it’s best to just batch-export all the .tor files having to do with 3d models (well, maybe we can leave the "\_area\_" ones out if we don't plan on using the game's buildings and exteriors). 
+
+EasyMYP has an option to extract the stuff inside all the .tor files contained in a folder:
 
 ![](images/extracting/easymyp/easymyp_guide_150.png)
 
@@ -154,9 +166,9 @@ This might be a memory issue. We've seen it happen in PCs with 16 GB. of RAM, an
 
 ### The results of the extraction and saving some storage space
 
-Once we are done, we can find ourselves with literally thousands of files inside a complex folder structure (a merge of all the subfolders contained in each .tor file) which can be a bit overwhelming. Actually, handling it will be far easier than it looks, because most of times we will be copypasting filenames and the like into Windows' instant search's field, and it will show us not just found filenames but, even more importantly, found .xml files mentioning those filenames without the need to dig deep inside the subfolders tree.
-
 <img align="left" src="images/extracting/easymyp/easymyp_guide_200.png">
+
+Once we are done, we can find ourselves with literally thousands of files inside a complex folder structure (a merge of all the subfolders contained in each .tor file) which can be a bit overwhelming. Actually, handling it will be far easier than it looks, because most of times we will be copypasting filenames and the like into Windows' instant search's field, and it will show us not just found filenames but, even more importantly, found .xml files mentioning those filenames without the need to dig deep inside the subfolders tree.
 
 As we mentioned before, the really juicy stuff is in the *resources* folder. The others, named like the .tor files, contain assets whose IDs aren't known yet. They *can* be useful if there is something (an object, a texture file, etc.) that we *know it should be somewhere in there* but can't be found: we can try those folders with a model viewer such as [Noesis](https://github.com/SWTOR-Extractors-Modders-Dataminers/NOESIS) or a free .dds format image viewer such as [XnView](https://www.xnview.com/) or [Noesis]([Noesis](https://github.com/SWTOR-Extractors-Modders-Dataminers/NOESIS)) too. Then again, they could as well be deleted to free hard disk space.
 
@@ -180,7 +192,11 @@ Now that we have the game assets extracted, it's time to learn how to find the o
 
 ### Importing the models into Blender with the .gr2 add-on
 
+<<<<<<< HEAD
 If you followed older guides based on the use of Noesis to convert SWTOR assets to usable formats (.obj 3D files and .png image ones, tipically), be aware that we no longer need such conversions thanks to LeeThorogood's .gr2 import/export add-on for Blender, the 3D app of choice out of both its ample capabilities and zero cost.
+=======
+If you followed older guides based on the use of Noesis to convert SWTOR assets to usable formats (.obj 3D files and .png image ones, tipically), be aware that we no longer need such conversions thanks to [LeeThorogood's .gr2 import/export add-on for Blender](https://github.com/SWTOR-Extractors-Modders-Dataminers/Granny2-Plug-In-Blender-2.8x), the 3D app of choice out of both its ample capabilities and zero cost.
+>>>>>>> 37df7574dd3f34fa1e7f53f5b87c30dd90724227
 
 Also, there is no need to modify the texture files in Photoshop or similar packages: Blender understands the .dds image format (it's pervasive in videogame production), and the preset materials provided by this same add-on do all the required texture manipulations.
 
@@ -218,9 +234,15 @@ In the Outliner, twirling the objects' little left-side arrows, we can see their
 
 We see that sometimes there are two materials in an object instead of a single one. That usually happens in three cases:
 
+<<<<<<< HEAD
 * • A head that has a skin material and an eyes material.
 * • A "hair piece" such as a Zabrak's horn plus hair object, which has materials for the hair and the horns.
 * • A piece of armor that shows skin. As SWTOR replaces whole body parts with corresponding pieces of armor, those need to incorporate the skin of the body part they replace, which uses its own material.
+=======
+* A head that has a skin material and an eyes material.
+* A "hair piece" such as a Zabrak's horn plus hair object, which has materials for the hair and the horns.
+* A piece of armor that shows skin. As SWTOR replaces whole body parts with corresponding pieces of armor, those need to incorporate the skin of the body part they replace, which uses its own material.
+>>>>>>> 37df7574dd3f34fa1e7f53f5b87c30dd90724227
 
 In such cases, we would replace each of those materials with the relevant template ones. Say, the head body part would use the SkinB Shader for the first material and the Eye Shader for the second one. 
 
@@ -323,6 +345,11 @@ The current version of the .gr2 importer works in both Blender 2.8x and 2.9x, bu
 
 There is a .gr2 importer for Blender 2.7x, but it doesn't provide with SWTOR-like materials: it only imports the objects. Still, with some effort, an approximation to the materials of the modern version could be built for 2.7x' Cycles renderer.
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 37df7574dd3f34fa1e7f53f5b87c30dd90724227
 ## Modding
 
 ## Datamining
