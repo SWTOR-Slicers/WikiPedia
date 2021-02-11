@@ -356,4 +356,9 @@ There is a .gr2 importer for Blender 2.7x, but it doesn't provide with SWTOR-lik
 
 ## Resources
 
+| Section | Section |
+| :---: | :---: |
+| File formats | Discord |
+| Xentax | Github |
+
 ## Getting Help
