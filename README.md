@@ -350,15 +350,3 @@ There is a .gr2 importer for Blender 2.7x, but it doesn't provide with SWTOR-lik
 
 
 >>>>>>> 37df7574dd3f34fa1e7f53f5b87c30dd90724227
-## Modding
-
-## Datamining
-
-## Resources
-
-| Section | Section |
-| :---: | :---: |
-| File formats | Discord |
-| Xentax | Github |
-
-## Getting Help
