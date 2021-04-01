@@ -1,4 +1,4 @@
-## SWTOR Extracting, Modding and Datamining
+## SWTOR Slicers
 
 We are a group of swtor fans who enjoy messing with the game, and pulling out models, textures, etc. This repo contains tools and guides to help you do so yourself, as well as some other things
 
