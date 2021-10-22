@@ -14,6 +14,8 @@ We do not condone the usage of our tools for malicious intent, including: **expl
 
 Change Log:
 
+19 Aug, 2021 -  **Updated the screencaps of the Slicer GUI** to reflect the additions to its UI. **Added mentions to the Alien Heads Mod in its installation guide** to help newcomers led there by that mod's instructions.
+
 8 Jul, 2021 -  The **Slicers GUI** tool seems to work well enough to promote it as a replacement to EasyMYP for game asset extractiions, so, the wiki pages have been updated to reflect that.
 
 27 Jun, 2021 - **The .gr2 Import/Export add-on is now compatible with Blender 2.93**. All compatibility warnings in the wiki have been retired.
