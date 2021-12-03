@@ -1,3 +1,7 @@
+***
+### [BLENDER 3.0-COMPATIBLE VERSION OF THE .GR2 IMPORTER ADD-ON AVAILABLE NOW!!!](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/blob/master/README.md)
+***
+
 ## SWTOR Slicers
 
 We are a group of swtor fans who enjoy messing with the game, and pulling out models, textures, etc. This repo contains tools and guides to help you do so yourself, as well as some other things
@@ -15,7 +19,7 @@ We do not condone the usage of our tools for malicious intent, including: **expl
 Change Log:
 
 3 Dic, 2021
-*  **Added warnings of an incompatibility between the .gr2 Importer Add-on and Blender 3.0**. It's a relatively minor one, which could be solved rather quickly.
+*  **Added news of the new Blender 3.0 compatible version of the .gr2 add-on.**
 
 10 Nov, 2021
 * **Added a "Highlights" section at the beginning** to make some of the most sought after topics more visible. Still, the wiki's index and structure seems to need a less orderly and more to-the-point structure 🤔.
