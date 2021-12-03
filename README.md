@@ -14,6 +14,9 @@ We do not condone the usage of our tools for malicious intent, including: **expl
 
 Change Log:
 
+3 Dic, 2021
+*  **Added warnings of an incompatibility between the .gr2 Importer Add-on and Blender 3.0**. It's a relatively minor one, which could be solved rather quickly.
+
 10 Nov, 2021
 * **Added a "Highlights" section at the beginning** to make some of the most sought after topics more visible. Still, the wiki's index and structure seems to need a less orderly and more to-the-point structure 🤔.
 
