@@ -18,6 +18,9 @@ We do not condone the usage of our tools for malicious intent, including: **expl
 
 Change Log:
 
+11 Ene. 2022
+*  **Added new guide to the wiki: [Attaching weapons and other objects to a character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character).**
+
 3 Dic, 2021
 *  **Added news of the new Blender 3.0 compatible version of the .gr2 add-on.**
 
