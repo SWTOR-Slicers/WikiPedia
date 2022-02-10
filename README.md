@@ -18,6 +18,9 @@ We do not condone the usage of our tools for malicious intent, including: **expl
 
 Change Log:
 
+10 Feb, 2022
+*  **Added notice of the .gr2 importer add-on update and its new way of working.** As that impacts several of the guides, warnings have been added regarding that and coming updates.
+
 11 Ene. 2022
 *  **Added new guide to the wiki: [Attaching weapons and other objects to a character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character).**
 
