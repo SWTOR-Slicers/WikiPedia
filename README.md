@@ -1,5 +1,5 @@
 ***
-### [BLENDER 3.0-COMPATIBLE VERSION OF THE .GR2 IMPORTER ADD-ON AVAILABLE NOW!!!](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/blob/master/README.md)
+### [.GR2 IMPORTER ADD-ON UPDATE: MORE COMPACT! SMARTER! SCARS!!!](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/blob/master/README.md)
 ***
 
 ## SWTOR Slicers
