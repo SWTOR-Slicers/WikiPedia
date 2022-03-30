@@ -18,6 +18,9 @@ We do not condone the usage of our tools for malicious intent, including: **expl
 
 Change Log:
 
+25 Mar, 2022
+*  **New guide: Assembling Multi Part Assets (Decorations, Rooms, etc), by Crunch** (with **Cren** collaborating on the definition of the workflow).
+  
 10 Feb, 2022
 *  **Added notice of the .gr2 importer add-on update and its new way of working.** As that impacts several of the guides, warnings have been added regarding that and coming updates.
 
