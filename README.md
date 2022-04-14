@@ -18,6 +18,9 @@ We do not condone the usage of our tools for malicious intent, including: **expl
 
 Change Log:
 
+12 Apr, 2022
+*  **New guide: Assigning materials and textures to environmental and arquitectural elements, furniture, props, ships, vehicles and weapons**. It shows how to do it manually, and points to some tools able to automate the whole process.
+
 25 Mar, 2022
 *  **New guide: Assembling Multi Part Assets (Decorations, Rooms, etc), by Crunch** (with **Cren** collaborating on the definition of the workflow).
   
