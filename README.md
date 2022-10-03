@@ -1,11 +1,14 @@
-## SWTOR Slicers
+## Welcome to the SWTOR Slicers wiki!
 
-We are a group of swtor fans who enjoy messing with the game, and pulling out models, textures, etc. This repo contains tools and guides to help you do so yourself, as well as some other things
+We are a group of swtor fans who enjoy messing with the game, and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
 
-We encourage you to join our **[Discord server](https://discord.gg/XfHFjSN)**, where you will be able to interact with fellow hobbyists in a more immediate manner and find help if you get stuck.
+This Wiki is where we pool all the knowledge we are gathering on SWTOR's data and how to use it, be it to discover what BioWare is cooking (datamining), to enhance our SWTOR experience by changing the game's looks (modding), or to make art out of the game's assets and immortalize our player characters through other 3D apps or even 3D-printing (extracting)!
 
+We realize the information and guides we present here might be a little overwhelming. It's getting far, _far_ better: the Slicers gang is building simpler, easier tools that keep all the drudgery down to a minimum. Still, it's good to know what's what and where it is, because it allows for interesting experimentation.
 
-We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if nessesary.
+There's much to add to this guide yet. We'll be filling the holes and updating its content as new tools and methods arise, so, keep an eye on it. Also, we encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), where you will be able to interact with fellow hobbyists in a direct manner, find help if you get stuck, and even contribute if you feel like it.
+
+(We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
 
 
 ***
