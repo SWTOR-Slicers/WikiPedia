@@ -55,7 +55,7 @@ Last update: 12 Apr, 2022
 
 ***
 
-### LOCATING AND ASSEMBLING OTHER ASSETS MANUALLY:
+### LOCATING AND ASSEMBLING ASSETS MANUALLY:
 
 * [Locating armor parts' assets](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-Armor-Parts'-Assets)
 * [Locating weapons' assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-weapons'-assets)
