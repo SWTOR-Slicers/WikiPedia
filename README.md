@@ -51,7 +51,7 @@ Last update: 12 Apr, 2022
     * Exporting to Unreal Engine.
     * Exporting to Tabletop Simulator.
   * 3D Printing:
-    * [Baking Normals](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-Normals)
+    * [Baking Normals into real 3D detailing](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-Normals)
 
 ***
 
