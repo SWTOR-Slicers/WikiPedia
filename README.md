@@ -38,10 +38,10 @@ Last update: 12 Apr, 2022
     * [Gathering the character's assets with the Slicer GUI tool.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Gathering-the-character's-assets-with-the-Slicer-GUI-tool)
     * [Using Blender and the SWTOR importer add-on to auto-assemble the model.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-Blender-and-the-SWTOR-importer-add-on-to-auto-assemble-the-model)
     * [Rigging the character for posing and animation](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Binding-a-character-to-a-posing-skeleton)
+    * [Applying SWTOR animations to the character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Applying-SWTOR-animations-to-a-skeleton)
 
   * Extra steps that require manual work and some knowledge of SWTOR's assets:
     * [Making capes and hair work, manually and through Cloth Simulation.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Making-capes-and-hair-work,-manually-and-through-Cloth-Simulation)
-    * [Applying SWTOR animations to the character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Applying-SWTOR-animations-to-a-skeleton)
     * [Locating weapons' assets manually.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-weapons'-assets)
     * [Attaching weapons and other objects to a character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character)
 
