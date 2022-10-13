@@ -15,8 +15,8 @@ There's much to add to this guide yet. We'll be filling the holes and updating i
 
 ***
 
-Last update: 12 Apr, 2022
-*  **New guide: Assigning materials and textures to environmental and arquitectural elements, furniture, props, ships, vehicles and weapons**. It shows how to do it manually, and points to some tools able to automate the whole process.
+Last update: 13 Oct, 2022
+*  **New guide by RandomUser: how to make SWTOR's street holosigns textures work in Blender.**
 
 ***
 
@@ -38,9 +38,9 @@ Last update: 12 Apr, 2022
     * [Gathering the character's assets with the Slicer GUI tool.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Gathering-the-character's-assets-with-the-Slicer-GUI-tool)
     * [Using Blender and the SWTOR importer add-on to auto-assemble the model.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-Blender-and-the-SWTOR-importer-add-on-to-auto-assemble-the-model)
     * [Rigging the character for posing and animation](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Binding-a-character-to-a-posing-skeleton)
-    * [Applying SWTOR animations to the character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Applying-SWTOR-animations-to-a-skeleton)
+    * [Applying SWTOR animations to the character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Applying-SWTOR-animations-to-a-skeleton)  
 
-  * Extra steps that require manual work and some knowledge of SWTOR's assets:
+* Extra steps that require manual work and some knowledge of SWTOR's assets:
     * [Making capes and hair work, manually and through Cloth Simulation.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Making-capes-and-hair-work,-manually-and-through-Cloth-Simulation)
     * [Locating weapons' assets manually.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-weapons'-assets)
     * [Attaching weapons and other objects to a character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character)
@@ -74,7 +74,8 @@ Last update: 12 Apr, 2022
     * [Merge by Distance before applying Modifiers.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Merge-by-Distance-before-applying-Modifiers)
     * [Enhancing SWTOR texture maps with Cupscale.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Enhancing-SWTOR-texture-maps-with-Cupscale)
   * [Other Extracting Strategies (needs updating).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-strategies)
-
+  * SWTOR Materials recipes:
+    * [SWTOR’s holosigns: how to make them work in Blender.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR's-holographic-signs:-how-to-make-them-work)
 ***
 
 ### MODDING (to do)
