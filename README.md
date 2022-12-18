@@ -1,3 +1,5 @@
+## TORCommunity.com will be down for a few days (there was a server storage failure, so, it has to be rebuilt). As several of its tools are necessary for following our guides on Player Character and NPC recreation, we'll keep you updated on its reactivation.
+
 ### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
 
 ## Welcome to the SWTOR Slicers wiki!
