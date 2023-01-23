@@ -1,0 +1,450 @@
+{
+	"tClass": "tr",
+	"gender": "m",
+	"species": "human",
+	"custom1": "2",
+	"custom2": "1",
+	"custom3": "1",
+	"custom4": "1",
+	"custom5": "1",
+	"custom6": "1",
+	"custom7": "1",
+	"custom8": "1",
+	"custom9": "1",
+	"custom10": "1",
+	"corruptionLvl": 0,
+	"faceGear": {
+		"name": "Havoc Squad Helmet",
+		"rarity": "Moddable",
+		"slot": "face",
+		"slotSimplified": "face",
+		"ippPath": "ipp.mtx.season7.havoc_squad.head",
+		"previewPath": {
+			"name": "a",
+			"attributes": [
+				{
+					"name": "href",
+					"value": "https://torcommunity.com/database/item/6Yzbz4b/havoc+squad+helmet"
+				},
+				{
+					"name": "data-torc",
+					"value": "norestyle"
+				},
+				{
+					"name": "data-torc-bid",
+					"value": "6Yzbz4b"
+				},
+				{
+					"name": "onclick",
+					"value": "event.preventDefault()"
+				},
+				{
+					"name": "class",
+					"value": "torctip_moddable"
+				}
+			],
+			"children": [
+				{
+					"name": "div",
+					"attributes": [
+						{
+							"name": "class",
+							"value": "torctip_image torctip_image_moddable"
+						}
+					],
+					"children": [
+						{
+							"name": "img",
+							"attributes": [
+								{
+									"name": "src",
+									"value": "https://torcommunity.com/db/icons/3883339236_1824024760.jpg"
+								},
+								{
+									"name": "alt",
+									"value": "Havoc Squad Helmet"
+								}
+							],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		"b62Id": "6Yzbz4b"
+	},
+	"chestGear": {
+		"name": "Havoc Squad Breastplate",
+		"rarity": "Moddable",
+		"slot": "chest",
+		"slotSimplified": "chest",
+		"ippPath": "ipp.mtx.season7.havoc_squad.chest",
+		"previewPath": {
+			"name": "a",
+			"attributes": [
+				{
+					"name": "href",
+					"value": "https://torcommunity.com/database/item/M9nGBOF/havoc+squad+breastplate"
+				},
+				{
+					"name": "data-torc",
+					"value": "norestyle"
+				},
+				{
+					"name": "data-torc-bid",
+					"value": "M9nGBOF"
+				},
+				{
+					"name": "onclick",
+					"value": "event.preventDefault()"
+				},
+				{
+					"name": "class",
+					"value": "torctip_moddable"
+				}
+			],
+			"children": [
+				{
+					"name": "div",
+					"attributes": [
+						{
+							"name": "class",
+							"value": "torctip_image torctip_image_moddable"
+						}
+					],
+					"children": [
+						{
+							"name": "img",
+							"attributes": [
+								{
+									"name": "src",
+									"value": "https://torcommunity.com/db/icons/3507843535_1170439141.jpg"
+								},
+								{
+									"name": "alt",
+									"value": "Havoc Squad Breastplate"
+								}
+							],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		"b62Id": "M9nGBOF"
+	},
+	"bracerGear": {
+		"name": "Havoc Squad Bracers",
+		"rarity": "Moddable",
+		"slot": "bracer",
+		"slotSimplified": "bracer",
+		"ippPath": "ipp.mtx.season7.havoc_squad.wrists",
+		"previewPath": {
+			"name": "a",
+			"attributes": [
+				{
+					"name": "href",
+					"value": "https://torcommunity.com/database/item/bshhNYF/havoc+squad+bracers"
+				},
+				{
+					"name": "data-torc",
+					"value": "norestyle"
+				},
+				{
+					"name": "data-torc-bid",
+					"value": "bshhNYF"
+				},
+				{
+					"name": "onclick",
+					"value": "event.preventDefault()"
+				},
+				{
+					"name": "class",
+					"value": "torctip_moddable"
+				}
+			],
+			"children": [
+				{
+					"name": "div",
+					"attributes": [
+						{
+							"name": "class",
+							"value": "torctip_image torctip_image_moddable"
+						}
+					],
+					"children": [
+						{
+							"name": "img",
+							"attributes": [
+								{
+									"name": "src",
+									"value": "https://torcommunity.com/db/icons/3755416743_690870826.jpg"
+								},
+								{
+									"name": "alt",
+									"value": "Havoc Squad Bracers"
+								}
+							],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		"b62Id": "bshhNYF"
+	},
+	"handGear": {
+		"name": "Havoc Squad Gauntlets",
+		"rarity": "Moddable",
+		"slot": "hand",
+		"slotSimplified": "hand",
+		"ippPath": "ipp.mtx.season7.havoc_squad.hands",
+		"previewPath": {
+			"name": "a",
+			"attributes": [
+				{
+					"name": "href",
+					"value": "https://torcommunity.com/database/item/gXDpxf8/havoc+squad+gauntlets"
+				},
+				{
+					"name": "data-torc",
+					"value": "norestyle"
+				},
+				{
+					"name": "data-torc-bid",
+					"value": "gXDpxf8"
+				},
+				{
+					"name": "onclick",
+					"value": "event.preventDefault()"
+				},
+				{
+					"name": "class",
+					"value": "torctip_moddable"
+				}
+			],
+			"children": [
+				{
+					"name": "div",
+					"attributes": [
+						{
+							"name": "class",
+							"value": "torctip_image torctip_image_moddable"
+						}
+					],
+					"children": [
+						{
+							"name": "img",
+							"attributes": [
+								{
+									"name": "src",
+									"value": "https://torcommunity.com/db/icons/3458381746_3856717235.jpg"
+								},
+								{
+									"name": "alt",
+									"value": "Havoc Squad Gauntlets"
+								}
+							],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		"b62Id": "gXDpxf8"
+	},
+	"waistGear": {
+		"name": "Havoc Squad Belt",
+		"rarity": "Moddable",
+		"slot": "waist",
+		"slotSimplified": "waist",
+		"ippPath": "ipp.mtx.season7.havoc_squad.waist",
+		"previewPath": {
+			"name": "a",
+			"attributes": [
+				{
+					"name": "href",
+					"value": "https://torcommunity.com/database/item/qy9Sd03/havoc+squad+belt"
+				},
+				{
+					"name": "data-torc",
+					"value": "norestyle"
+				},
+				{
+					"name": "data-torc-bid",
+					"value": "qy9Sd03"
+				},
+				{
+					"name": "onclick",
+					"value": "event.preventDefault()"
+				},
+				{
+					"name": "class",
+					"value": "torctip_moddable"
+				}
+			],
+			"children": [
+				{
+					"name": "div",
+					"attributes": [
+						{
+							"name": "class",
+							"value": "torctip_image torctip_image_moddable"
+						}
+					],
+					"children": [
+						{
+							"name": "img",
+							"attributes": [
+								{
+									"name": "src",
+									"value": "https://torcommunity.com/db/icons/1826245126_4155261918.jpg"
+								},
+								{
+									"name": "alt",
+									"value": "Havoc Squad Belt"
+								}
+							],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		"b62Id": "qy9Sd03"
+	},
+	"legGear": {
+		"name": "Havoc Squad Greaves",
+		"rarity": "Moddable",
+		"slot": "leg",
+		"slotSimplified": "leg",
+		"ippPath": "ipp.mtx.season7.havoc_squad.legs",
+		"previewPath": {
+			"name": "a",
+			"attributes": [
+				{
+					"name": "href",
+					"value": "https://torcommunity.com/database/item/tDl9IW2/havoc+squad+greaves"
+				},
+				{
+					"name": "data-torc",
+					"value": "norestyle"
+				},
+				{
+					"name": "data-torc-bid",
+					"value": "tDl9IW2"
+				},
+				{
+					"name": "onclick",
+					"value": "event.preventDefault()"
+				},
+				{
+					"name": "class",
+					"value": "torctip_moddable"
+				}
+			],
+			"children": [
+				{
+					"name": "div",
+					"attributes": [
+						{
+							"name": "class",
+							"value": "torctip_image torctip_image_moddable"
+						}
+					],
+					"children": [
+						{
+							"name": "img",
+							"attributes": [
+								{
+									"name": "src",
+									"value": "https://torcommunity.com/db/icons/2823883767_2242512432.jpg"
+								},
+								{
+									"name": "alt",
+									"value": "Havoc Squad Greaves"
+								}
+							],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		"b62Id": "tDl9IW2"
+	},
+	"bootGear": {
+		"name": "Havoc Squad Boots",
+		"rarity": "Moddable",
+		"slot": "boot",
+		"slotSimplified": "boot",
+		"ippPath": "ipp.mtx.season7.havoc_squad.feet",
+		"previewPath": {
+			"name": "a",
+			"attributes": [
+				{
+					"name": "href",
+					"value": "https://torcommunity.com/database/item/zEhpNMI/havoc+squad+boots"
+				},
+				{
+					"name": "data-torc",
+					"value": "norestyle"
+				},
+				{
+					"name": "data-torc-bid",
+					"value": "zEhpNMI"
+				},
+				{
+					"name": "onclick",
+					"value": "event.preventDefault()"
+				},
+				{
+					"name": "class",
+					"value": "torctip_moddable"
+				}
+			],
+			"children": [
+				{
+					"name": "div",
+					"attributes": [
+						{
+							"name": "class",
+							"value": "torctip_image torctip_image_moddable"
+						}
+					],
+					"children": [
+						{
+							"name": "img",
+							"attributes": [
+								{
+									"name": "src",
+									"value": "https://torcommunity.com/db/icons/3285753977_1272108643.jpg"
+								},
+								{
+									"name": "alt",
+									"value": "Havoc Squad Boots"
+								}
+							],
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		"b62Id": "zEhpNMI"
+	},
+	"faceGU": true,
+	"bracerGU": true,
+	"handGU": true,
+	"waistGU": true,
+	"legGU": true,
+	"bootGU": true,
+	"faceDye": null,
+	"chestDye": null,
+	"bracerDye": null,
+	"handDye": null,
+	"waistDye": null,
+	"legDye": null,
+	"bootDye": null,
+	"dye": null
+}
