@@ -1,4 +1,6 @@
-## TORCommunity.com's functionality is currently diminished out of a recent server storage failure. As several of the site's tools are necessary for following our guides on Player Character and NPC recreation, we'll keep you updated on its restoration.<br>• At this time, the Character Designer's armor gear search doesn't work, so, one can only create new characters in their underwear.<br>• Importing previous characters' `IMPORT_THIS.json` files fully works, including their armor gear.<br>• The database is up and NPCs and other elements are searchable and exportable.
+## TORCommunity.com's functionality is currently diminished out of a recent server storage failure: <br><br>• The Character Designer's armor gear search doesn't work yet, but it can read the armor entries in previously exported characters and process them. So, as a temporary solution, we can change them manually to export the armor pieces we want. It's actually very easy: [TORC Character Designer: Manually Creating Armor Sets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer:-Manually-Creating-Armor-Sets)<br><br>• Everything else in the site works: the database is up and NPCs and other elements are searchable and exportable.
+
+***
 
 ### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
 
@@ -36,6 +38,7 @@ Last update: 13 Oct, 2022
   * The steps:
     * [Installing Slicers GUI and extracting SWTOR's game assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR's-game-assets)
     * [Using TORCommunity's Character Designer to export Player Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity's-Character-Designer)
+      * [TORC Character Designer: Manually Creating Armor Sets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer:-Manually-Creating-Armor-Sets)
     * [Using TORCommunity's NPCs Database to export Non Playable Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity's-NPCs-Database)
     * [Gathering the character's assets with the Slicer GUI tool.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Gathering-the-character's-assets-with-the-Slicer-GUI-tool)
     * [Using Blender and the SWTOR importer add-on to auto-assemble the model.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-Blender-and-the-SWTOR-importer-add-on-to-auto-assemble-the-model)
