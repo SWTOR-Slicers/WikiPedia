@@ -1,3 +1,11 @@
+## SWTOR GAME UPDATE 7.2.1 IS INCOMPATIBLE WITH OUR TOOLS!!! KEEP A BACKUP OF THE GAME'S .TOR FILES PREVIOUS TO THE UPDATE IF YOU CAN. DON'T RE-EXTRACT YOUR GAME ASSETS FROM THE UPDATED GAME FILES UNTIL WE UPDATE THE TOOLS TOO.
+
+The game's "Assets" folder with the .tor files is located at:
+
+* In the Steam installation: `C:\Program Files (86)\Steam\steamapps\common\Star Wars – The Old Republic\Assets>`
+
+* In the traditional installation: `C:\Program Files (x86)\Electronic Arts\BioWare\Star Wars - The Old Republic\Assets`
+
 ## TORCommunity.com's Character Designer's armor gear search works again! (thank you, Hayward 🙂!)
 
 ### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
