@@ -1,10 +1,4 @@
-## SWTOR GAME UPDATE 7.2.1 IS INCOMPATIBLE WITH OUR TOOLS!!! KEEP A BACKUP OF THE GAME'S .TOR FILES PREVIOUS TO THE UPDATE IF YOU CAN. DON'T RE-EXTRACT YOUR GAME ASSETS FROM THE UPDATED GAME FILES UNTIL WE UPDATE THE TOOLS TOO.
-
-The game's "Assets" folder with the .tor files is located at:
-
-* In the Steam installation: `C:\Program Files (86)\Steam\steamapps\common\Star Wars – The Old Republic\Assets>`
-
-* In the traditional installation: `C:\Program Files (x86)\Electronic Arts\BioWare\Star Wars - The Old Republic\Assets`
+## WARNING: our tools aren't yet compatible with files extracted from the recent SWTOR Game Update 7.2.1. Until they are, you can keep on using them on assets from older versions of the game (which can be extracted from the game files in a system drive backup, if available, or downloaded from **[here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)**).
 
 ## TORCommunity.com's Character Designer's armor gear search works again! (thank you, Hayward 🙂!)
 
