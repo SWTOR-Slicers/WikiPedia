@@ -104,7 +104,7 @@ Last update: 13 Oct, 2022
   * [Extracting SWTOR's assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR's-assets-with-the-Slicers-GUI)
   * Viewing and converting extracted assets.
 * EasyMYP: tool for extracting SWTOR assets (OBSOLETE if still useful. We recommend using Slicers GUI instead):
-  * [Extracting SWTOR's assets with EasyMYP.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR's-assets-with-EasyMYP)
+  * [Extracting SWTOR's assets with EasyMYP.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-EasyMYP)
 * Noesis: assets viewer and converter (OBSOLETE FOR MODEL CONVERSIONS. We recommend using Blender and our .gr2 importer add-on instead):
   * Noesis overview.
   * Viewing assets with their textures (at times) with Noesis.
@@ -120,7 +120,7 @@ Last update: 13 Oct, 2022
   * [gr2 Structure.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/GR2-File-Structure)
   * [jba Structure.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JBA-File-Structure)
   * [clo Structure.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/CLO-File-Structure)
-* [A look at SWTOR's Materials and Texture Files.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/swtor-materials-and-texture-files)
+* [A look at SWTOR's Materials and Texture Files.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-materials-and-texture-files)
 
 ***
 
