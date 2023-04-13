@@ -36,7 +36,7 @@ Last update: 13 Oct, 2022
 ### THE COMPLETE GUIDE TO AUTO-EXTRACTING AND ASSEMBLING PLAYER CHARACTERS AND NPCs:
   * [Read the broad strokes first: you'll see it's easier than you think!](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)
   * The steps:
-    * [Installing Slicers GUI and extracting SWTOR's game assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR's-game-assets)
+    * [Installing Slicers GUI and extracting SWTOR's game assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)
     * [Using TORCommunity's Character Designer to export Player Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity's-Character-Designer)
       * **NO LONGER NEEDED!** [TORC Character Designer armor selection workaround: Manually Creating Armor Sets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer:-Manually-Creating-Armor-Sets)    * [Using TORCommunity's NPCs Database to export Non Playable Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity's-NPCs-Database)
     * [Gathering the character's assets with the Slicer GUI tool.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Gathering-the-character's-assets-with-the-Slicer-GUI-tool)
