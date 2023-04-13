@@ -38,7 +38,7 @@ Last update: 13 Oct, 2022
   * The steps:
     * [Installing Slicers GUI and extracting SWTOR's game assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)
     * [Using TORCommunity's Character Designer to export Player Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity-Character-Designer)
-      * **NO LONGER NEEDED!** [TORC Character Designer armor selection workaround: Manually Creating Armor Sets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer:-Manually-Creating-Armor-Sets)
+      * **NO LONGER NEEDED!** [TORC Character Designer armor selection workaround: Manually Creating Armor Sets.]([https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer:-Manually-Creating-Armor-Sets](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer-and-Manually-Creating-Armor-Sets))
     * [Using TORCommunity's NPCs Database to export Non Playable Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity-NPCs-Database)
     * [Gathering the character's assets with the Slicer GUI tool.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Gathering-the-character-assets-with-the-Slicer-GUI-tool)
     * [Using Blender and the SWTOR importer add-on to auto-assemble the model.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-Blender-and-the-SWTOR-importer-add-on-to-auto-assemble-the-model)
@@ -54,6 +54,7 @@ Last update: 13 Oct, 2022
     * ["Baking" with Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
     * [Exporting to VRChat.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-VRChat)
     * Exporting to Unreal Engine.
+    * [Exporting to Garry's Mod](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-to-Garry-Mod-(GMod)).
     * Exporting to Tabletop Simulator.
   * 3D Printing:
     * [Baking Normals into real 3D detailing](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-Normals)
@@ -80,7 +81,7 @@ Last update: 13 Oct, 2022
     * [Enhancing SWTOR texture maps with Cupscale.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Enhancing-SWTOR-texture-maps-with-Cupscale)
   * [Other Extracting Strategies (needs updating).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-strategies)
   * SWTOR Materials recipes:
-    * [SWTOR’s holosigns: how to make them work in Blender.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR's-holographic-signs:-how-to-make-them-work)
+    * [SWTOR’s holosigns: how to make them work in Blender.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-holographic-signs:-how-to-make-them-work)
 ***
 
 ### MODDING (to do)
