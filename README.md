@@ -1,6 +1,10 @@
-## WARNING: our tools aren't yet compatible with files extracted from the recent SWTOR Game Update 7.2.1. Until they are, you can keep on using them on assets from older versions of the game (which can be extracted from the game files in a system drive backup, if available, or downloaded from **[here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)**).
+## WARNING: our tools aren't yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1:
+* **Slicers GUI is usable: it both extracts and locates game assets.**
+* **The .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations is yet to be solved.**
 
-## TORCommunity.com's Character Designer's armor gear search works again! (thank you, Hayward 🙂!)
+**If you need these last specific features, you could keep on using the older versions of the tools on assets from a SWTOR previous to the Game Update, which you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)).**
+___
+
 
 ### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
 
