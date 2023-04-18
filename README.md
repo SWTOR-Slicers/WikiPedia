@@ -1,5 +1,5 @@
 ## WARNING: our tools aren't yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1:
-* **Slicers GUI is usable: it both extracts and locates game assets.**
+* **Slicers GUI is usable: version 1.12.0 both extracts and locates game assets.**
 * **The .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations is yet to be solved.**
 
 **If you need these last specific features, you could keep on using the older versions of the tools on assets from a SWTOR previous to the Game Update, which you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)).**
