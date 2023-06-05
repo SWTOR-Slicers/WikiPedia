@@ -1,3 +1,7 @@
+## NEW AVAILABLE TOOL: the SWTOR Character Assembler Blender Addon:
+* It combines in a single button operation the character asset-locating function of Slicers GUI and the actual importing into Blender described in the **[Guide to Auto-Extracting and Assembling Player Characters](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**, adding a few options of its own. More information and link in that guide.
+---
+
 ## WARNING: our tools aren't yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1:
 * **Slicers GUI is usable: version 1.12.0 both extracts and locates game assets.**
 * **The .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations is yet to be solved.**
