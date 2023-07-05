@@ -5,14 +5,17 @@
 * **The latest .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations is yet to be solved.**
 
 **If you need these last specific features, you could keep on using the older versions of the tools on files from a SWTOR previous to the Game Update, which you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)) (we recommend you download them all, as painful as it is, because determining which .tor files fit your use case is rather complicated).**
+---
+### Modding tools don't work yet with SWTOR 64 bit.
+---
 
 ### NEW AVAILABLE TOOL: the SWTOR Character Assembler Blender Addon:
 **It combines in a single button operation the character asset-locating function of Slicers GUI and the actual importing into Blender described in the **[Guide to Auto-Extracting and Assembling Player Characters](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**, adding a few options of its own. More information and link in that guide.**
-
+---
 ### TORCOMMUNITY.COM'S Character Designer's armor search working again!
-  
+---
 **If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).**
-
+---
 ### TORCOMMUNITY.COM's NPC Database's 3D viewer and exporter is down:  
 **We have a temporary stash of old exported NPC definition files in the Discord Server which might contain the NPC that you are interested in.**
 
@@ -21,7 +24,7 @@ ___
 
 ### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
 
-## Welcome to the SWTOR Slicers wiki!
+# Welcome to the SWTOR Slicers wiki!
 
 We are a group of swtor fans who enjoy messing with the game, and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
 
