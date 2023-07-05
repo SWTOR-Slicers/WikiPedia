@@ -1,39 +1,37 @@
-## STATE OF PLAY JUL-2023 :
+## STATE OF PLAY JULY 2023:
 
-### WARNING: our tools aren't yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1:
+### • Our two most basic tools (many of the rest depend on them) aren't yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bits):
 * **Slicers GUI is usable: it both extracts and locates game assets.**
 * **The latest .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations is yet to be solved.**
 
-**If you need these last specific features, you could keep on using the older versions of the tools on files from a SWTOR previous to the Game Update, which you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)) (we recommend you download them all, as painful as it is, because determining which .tor files fit your use case is rather complicated).**
----
-### Modding tools don't work yet with SWTOR 64 bit.
----
+If you need these last specific features, you could keep on using the older versions of the tools on files from a SWTOR previous to the Game Update, which you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)) (we recommend you download them all, as painful as it is, because determining which .tor files fit your use case is rather complicated).
 
-### NEW AVAILABLE TOOL: the SWTOR Character Assembler Blender Addon:
-**It combines in a single button operation the character asset-locating function of Slicers GUI and the actual importing into Blender described in the **[Guide to Auto-Extracting and Assembling Player Characters](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**, adding a few options of its own. More information and link in that guide.**
----
-### TORCOMMUNITY.COM'S Character Designer's armor search working again!
----
-**If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).**
----
-### TORCOMMUNITY.COM's NPC Database's 3D viewer and exporter is down:  
-**We have a temporary stash of old exported NPC definition files in the Discord Server which might contain the NPC that you are interested in.**
+### • Modding tools don't work yet with SWTOR 64 bits.
+
+### • New Tool: the [SWTOR Character Assembler Blender Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler):  
+It combines in a single button operation the character asset-locating function of Slicers GUI and the actual importing into Blender described in the **[Guide to Auto-Extracting and Assembling Player Characters](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**, adding a few options of its own. More information and link in that guide.
+
+### • TORCommunity.com's Character Designer's armor search works again!
+
+### • TORCommunity.com's NPC Database's 3D viewer and exporter is down:
+We have a temporary stash of old exported NPC definition files in the Discord Server which might contain the NPC that you are interested in.
 
 ___
 
-
-### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
 
 # Welcome to the SWTOR Slicers wiki!
 
 We are a group of swtor fans who enjoy messing with the game, and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
 
-This Wiki is where we pool all the knowledge we are gathering on SWTOR's data and how to use it, be it to discover what BioWare is cooking (datamining), to enhance our SWTOR experience by changing the game's looks (modding), or to make art out of the game's assets and immortalize our player characters through other 3D apps or even 3D-printing (extracting)!
+In this Wiki we pool all the knowledge we are gathering on SWTOR's data and how to use it, be it to discover what the game developers are cooking (**datamining**), to enhance our SWTOR experience by changing the game's looks (**modding**), or to make art out of the game's assets and immortalize our player characters through other 3D apps or even 3D-printing (**extracting**)!
 
 We realize the information and guides we present here might be a little overwhelming. It's getting far, _far_ better: the Slicers gang is building simpler, easier tools that keep all the drudgery down to a minimum. Still, it's good to know what's what and where it is, because it allows for interesting experimentation.
 
 There's much to add to this guide yet. We'll be filling the holes and updating its content as new tools and methods arise, so, keep an eye on it. Also, we encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), where you will be able to interact with fellow hobbyists in a direct manner, find help if you get stuck, and even contribute if you feel like it.
 
+### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
+
+---
 (We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
 
 
