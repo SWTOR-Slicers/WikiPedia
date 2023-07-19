@@ -1,10 +1,10 @@
 ## STATE OF PLAY JULY 2023:
 
-### • Our two most basic tools (many of the rest depend on them) aren't yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bits):
-* **Slicers GUI is usable: it both extracts game assets and locates player character and NPC files for autoassembling.**
-* **The latest .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations is yet to be solved.**
+### • Our two most basic tools (many of the rest depend on them) are almost but not yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bits):
+* **Slicers GUI is usable: it both extracts and locates game assets in any version of SWTOR. As locating character assets is this bit buggy at the moment, we recommend using the [SWTOR Character Assembler Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler) for this process, instead.**
+* **The .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations is yet to be solved.**
 
-If you need these last specific features, you could keep on using the older versions of the tools on files from a SWTOR previous to the Game Update, which you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)) (we recommend you download them all, as painful as it is, because determining which .tor files fit your use case is rather complicated).
+  **It can import older SWTOR 32 bit versions of those, though. If you need these last specific features, you could replace the related assets with the ones extracted from a SWTOR previous to the Game Update (whose files you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)).**
 
 ### • Modding tools don't work yet with SWTOR 64 bits.
 
