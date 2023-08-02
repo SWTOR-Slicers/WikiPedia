@@ -1,7 +1,7 @@
-## STATE OF PLAY JULY 2023:
+## STATE OF PLAY:
 
-### • Our two most basic tools (many of the rest depend on them) are almost but not yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bits):
-* **Slicers GUI is usable: it both extracts and locates game assets in any version of SWTOR. As locating character assets is this bit buggy at the moment, we recommend using the [SWTOR Character Assembler Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler) for this process, instead.**
+### Our tools are almost but not yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bit):
+* **Slicers GUI is usable: it both extracts and locates game assets in any version of SWTOR. As locating character assets is this bit buggy at the moment, we recommend using the [SWTOR Character Assembler Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler) for this process, instead. The guides have been updated to reflect that**
 * **The .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations from SWTOR 64 bits is yet to be solved.**
 
   **It can import older SWTOR 32 bits versions of those, though. If you need these last specific features, you could replace the related assets with the ones extracted from a SWTOR previous to the Game Update (whose files you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)).**
@@ -37,17 +37,16 @@ There's much to add to this guide yet. We'll be filling the holes and updating i
 
 ***
 
-Last update: 13 Oct, 2022
-*  **New guide by RandomUser: how to make SWTOR's street holosigns textures work in Blender.**
+Last update: 27 Jul, 2023
+*  **Revised Player Character/NPC Importing guide based on new tools**
 
 ***
-
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
 * Getting Help:
-  * [The SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
-  * [TORCommunity.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
-  * [Jedipedia.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia)
+  * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
+  * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
+  * [Jedipedia and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia)
 
 ***
 
@@ -56,10 +55,9 @@ Last update: 13 Oct, 2022
   * The steps:
     * [Installing Slicers GUI and extracting SWTOR's game assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)
     * [Using TORCommunity's Character Designer to export Player Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity-Character-Designer)
-      * **NO LONGER NEEDED!** [TORC Character Designer armor selection workaround: Manually Creating Armor Sets.]([https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer:-Manually-Creating-Armor-Sets](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer-and-Manually-Creating-Armor-Sets))
+      * **NO LONGER NEEDED!** [TORC Character Designer armor selection workaround: Manually Creating Armor Sets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer-and-Manually-Creating-Armor-Sets)
     * [Using TORCommunity's NPCs Database to export Non Playable Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity-NPCs-Database)
-    * [Gathering the character's assets with the Slicer GUI tool.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Gathering-the-character-assets-with-the-Slicer-GUI-tool)
-    * [Using Blender and the SWTOR importer add-on to auto-assemble the model.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-Blender-and-the-SWTOR-importer-add-on-to-auto-assemble-the-model)
+    * [Using our Blender add-ons to auto-assemble the model.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-the-character-with-the-Character-Assembler-Add-on)
     * [Rigging the character for posing and animation](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Binding-a-character-to-a-posing-skeleton)
     * [Applying SWTOR animations to the character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Applying-SWTOR-animations-to-a-skeleton)  
 
@@ -78,6 +76,9 @@ Last update: 13 Oct, 2022
     * [Baking Normals into real 3D detailing](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-Normals)
 
 ***
+### ASSEMBLING GAME LOCATIONS AUTOMATICALLY:
+
+* [Assembling SWTOR Game Areas with Jedipedia.net data and the SWTOR Area Assembler Addon](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
 
 ### LOCATING AND ASSEMBLING ASSETS MANUALLY:
 
@@ -120,7 +121,7 @@ Last update: 13 Oct, 2022
 * Slicers GUI: unified tool for viewing, extracting, converting and modding SWTOR assets and data:
   * [Slicers GUI overview.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Slicers-GUI-overview)
   * [Installation.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Slicers-GUI-Installation)
-  * [Extracting SWTOR's assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR's-assets-with-the-Slicers-GUI)
+  * [Extracting SWTOR's assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-the-Slicers-GUI)
   * Viewing and converting extracted assets.
 * EasyMYP: tool for extracting SWTOR assets (OBSOLETE if still useful. We recommend using Slicers GUI instead):
   * [Extracting SWTOR's assets with EasyMYP.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-EasyMYP)
