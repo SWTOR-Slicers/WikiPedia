@@ -1,24 +1,24 @@
 ## STATE OF PLAY:
 
-### Our tools are almost but not yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bit):
+### • TORCommunity.com's Character Designer's armor search is working again! 🙂
+**Remember that it covers only pre-Game Update 7.0 items**. Anything afterwards will require using Jedipedia data to find the relevant meshes, textures, and palette info.
+
+### • TORCommunity.com's NPC Database's 3D viewer and exporter is working again! 🙂
+The .zip files exported by it ought to work OK even if the previsualization fails. Also, we keep a stash of exported NPC definition files in the Discord Server.
+
+### • Our tools are almost but not yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bit):
 * **Slicers GUI is usable: it both extracts and locates game assets in any version of SWTOR. As locating character assets is this bit buggy at the moment, we recommend using the [SWTOR Character Assembler Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler) for this process, instead. The guides have been updated to reflect that**
 * **The .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations from SWTOR 64 bits is yet to be solved.**
 
-  **It can import older SWTOR 32 bits versions of those, though. If you need these last specific features, you could replace the related assets with the ones extracted from a SWTOR previous to the Game Update (whose files you can download from [here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)).**
+**It can import older SWTOR 32 bits versions of those, though**. If you need these last specific features, you could replace the related assets with the ones extracted from a SWTOR previous to the Game Update (whose files you can download from **[here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)).**
 
 ### • Modding tools don't work yet with SWTOR 64 bits.
 
 ### • New Tool: the [SWTOR Character Assembler Blender Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler):  
-It combines in a single button operation the character asset-locating function of Slicers GUI and the actual importing into Blender described in the **[Guide to Auto-Extracting and Assembling Player Characters](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**, adding a few options of its own. More information and link in that guide.
 
-### • TORCommunity.com's Character Designer's armor search is working again! 🙂
-(**Remember that it covers only pre-Game Update 7.0 items**. Anything afterwards will require using Jedipedia data to find the relevant meshes, textures, and palette info)
-
-### • TORCommunity.com's NPC Database's 3D viewer and exporter is down:
-We have a temporary stash of old exported NPC definition files in the Discord Server which might contain the NPC that you are interested in.
+  It combines in a single button operation the character asset-locating function of Slicers GUI and the actual importing into Blender described in the **[Guide to Auto-Extracting and Assembling Player Characters](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**, adding a few options of its own. More information and link in that guide.
 
 ___
-
 
 # Welcome to the SWTOR Slicers wiki!
 
