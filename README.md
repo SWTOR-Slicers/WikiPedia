@@ -1,7 +1,7 @@
 ## STATE OF PLAY:
 
 ### • TORCommunity.com's Character Designer's armor search is working again! 🙂
-**Remember that it covers only pre-Game Update 7.0 items**. Anything afterwards will require using Jedipedia data to find the relevant meshes, textures, and palette info.
+**Remember that it only covers pre-Game Update 7.0 items**. Anything afterwards will require using Jedipedia data to find the relevant meshes, textures, and palette info.
 
 ### • TORCommunity.com's NPC Database's 3D viewer and exporter is working again! 🙂
 The .zip files exported by it ought to work OK even if the previsualization fails. Also, we keep a stash of exported NPC definition files in the Discord Server.
