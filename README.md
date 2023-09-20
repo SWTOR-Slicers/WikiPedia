@@ -1,7 +1,10 @@
 ## STATE OF PLAY:
 
-### • TORCommunity.com's Character Designer's armor search is working again! 🙂
-**Remember that it only covers pre-Game Update 7.0 items**. Anything afterwards will require using Jedipedia data to find the relevant meshes, textures, and palette info.
+### • **[Jedipedia-derived up-to-date Hash File link](https://swtor.jedipedia.net/ajax/getFileNames.php?env=live&format=easymyp)** for asset extractions through Slicers GUI.
+
+## • TORCommunity.com is down, due to a storage mishap. It's being solved, but it is taking time because a full backup had to be downloaded. We'll keep you posted about it.
+
+### • TORCommunity.com's Character Designer's armor search works again. **Remember that it only covers pre-Game Update 7.0 items**. Anything afterwards will require using Jedipedia data to find the relevant meshes, textures, and palette info.
 
 ### • TORCommunity.com's NPC Database's 3D viewer and exporter is working again! 🙂
 The .zip files exported by it ought to work OK even if the previsualization fails. Also, we keep a stash of exported NPC definition files in the Discord Server.
