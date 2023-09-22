@@ -55,7 +55,7 @@ Last update: 27 Jul, 2023
 
 ***
 
-* [**Importing SWTOR models into Blender: an overview**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-SWTOR-models-into-Blender-An-overview)
+* [**IMPORTING SWTOR MODELS INTO BLENDER: AN OVERVIEW**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-SWTOR-models-into-Blender-An-overview)
 
 ***
 
