@@ -1,53 +1,18 @@
-## STATE OF PLAY:
-
-## • TORCommunity.com is down, due to a storage mishap. It's being solved, but it is taking time because a full backup had to be downloaded. We'll keep you posted about it.
-
-### • **[Jedipedia-derived up-to-date Hash File link](https://swtor.jedipedia.net/ajax/getFileNames.php?env=live&format=easymyp)** for asset extractions through Slicers GUI.
-
-### • TORCommunity.com's Character Designer's armor search works again.  
-  **Remember that it only covers pre-Game Update 7.0 items**. Anything afterwards will require using Jedipedia data to find the relevant meshes, textures, and palette info.
-
-### • TORCommunity.com's NPC Database's 3D viewer and exporter is working again.  
-  The .zip files exported by it ought to work OK even if the previsualization fails. Also, we keep a stash of exported NPC definition files in the Discord Server.
-
-### • Our tools are almost but not yet fully compatible with files extracted from the recent SWTOR Game Update 7.2.1 onwards (SWTOR 64 bit):
-* **Slicers GUI is usable: it both extracts and locates game assets in any version of SWTOR. As locating character assets is this bit buggy at the moment, we recommend using the [SWTOR Character Assembler Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler) for this process, instead. The guides have been updated to reflect that**
-* **The .gr2 Importer Addon is half-way there: it imports objects and applies materials correctly, but the handling of skeletons and animations from SWTOR 64 bits is yet to be solved.**
-
-**It can import older SWTOR 32 bits versions of those, though**. If you need these last specific features, you could replace the related assets with the ones extracted from a SWTOR previous to the Game Update (whose files you can download from **[here](https://drive.google.com/drive/folders/1ZkBNz1cK_IXBxBd4OIYL1jRImnnfHXKW?usp=sharing)).**
-
-### • Modding tools don't work yet with SWTOR 64 bits.
-
-### • New Tool: the [SWTOR Character Assembler Blender Addon](https://github.com/SWTOR-Slicers/SWTOR-Character-Assembler):  
-
-  It combines in a single button operation the character asset-locating function of Slicers GUI and the actual importing into Blender described in the **[Guide to Auto-Extracting and Assembling Player Characters](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**, adding a few options of its own. More information and link in that guide.
-
-___
-
 # Welcome to the SWTOR Slicers wiki!
 
-We are a group of swtor fans who enjoy messing with the game, and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
+We are a group of swtor fans who enjoy messing with the game and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things. It's far easier that it looks like, just bear with us 🙂.
 
-In this Wiki we pool all the knowledge we are gathering on SWTOR's data and how to use it, be it to discover what the game developers are cooking (**datamining**), to enhance our SWTOR experience by changing the game's looks (**modding**), or to make art out of the game's assets and immortalize our player characters through other 3D apps or even 3D-printing (**extracting**)!
+This Wiki is where we pool all the knowledge we are gathering on SWTOR's data and how to use it, be it to discover what BioWare is cooking (datamining), to enhance our SWTOR experience by changing the game's looks (modding), or to make art out of the game's assets and immortalize our player characters through other 3D apps or even 3D-printing (extracting).
 
-We realize the information and guides we present here might be a little overwhelming. It's getting far, _far_ better: the Slicers gang is building simpler, easier tools that keep all the drudgery down to a minimum. Still, it's good to know what's what and where it is, because it allows for interesting experimentation.
+We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), where you will be able to interact with fellow hobbyists in a direct manner, find help if you get stuck, and even contribute if you feel like it.
 
-There's much to add to this guide yet. We'll be filling the holes and updating its content as new tools and methods arise, so, keep an eye on it. Also, we encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), where you will be able to interact with fellow hobbyists in a direct manner, find help if you get stuck, and even contribute if you feel like it.
-
-### If your main interest is recreating your Player Characters or your favorite NPCs in [Blender](https://blender.org/), the popular, free 3D app, or use it as an intermediate step to bring them to other apps, we can direct you straight to [this guide on how to do it in the most automated, hassle free way so far](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically).
-
----
 (We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
 
-
 ***
 
-Last update: 27 Jul, 2023
-*  **Revised Player Character/NPC Importing guide based on new tools**
-
-***
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
+* **[State of Play September 2023](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
