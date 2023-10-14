@@ -1,15 +1,3 @@
-# Welcome to the SWTOR Slicers wiki!
-
-We are a group of swtor fans who enjoy messing with the game and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
-
-This Wiki is where we pool all the knowledge we are gathering on SWTOR's data and how to use it, be it to discover what BioWare is cooking (datamining), to enhance our SWTOR experience by changing the game's looks (modding), or to make art out of the game's assets and immortalize our player characters through other 3D apps or even 3D-printing (extracting). Bear with us: it's far easier that it seems 🙂.
-
-We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), where you will be able to interact with fellow hobbyists in a direct manner, find help if you get stuck, and even contribute if you feel like it.
-
-(We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
-
-***
-
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
 * **[State of Play October 2023](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
@@ -20,11 +8,12 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 ***
 
-* [**IMPORTING SWTOR MODELS INTO BLENDER: AN OVERVIEW**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-SWTOR-models-into-Blender-An-overview)  
+* [**IMPORTING SWTOR MODELS INTO BLENDER: A BRIEF OVERVIEW**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-SWTOR-models-into-Blender-An-overview)  
   
   (**Check that intro first. Afterwards, you can jump directly to the guides on extracting PCs, NPCs and others**, but eventually you'll want to check these ones for each of the current tools, which are):  
   * [Slicers GUI (Windows app).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)
-  * Blender 3D (free, open source app): **How to install Blender Add-ons.**
+  * [Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender) (free, open source app):  
+    **How to install our Blender Add-ons.**
   * SWTOR's .gr2 Importer Add-on.
   * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-the-character-with-the-Character-Assembler-Add-on)
   * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
@@ -33,7 +22,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
     * SWTOR Database.
     * File Reader.
     * World Viewer.
-  * TORCommunity.com (currently unavailable out of server outage):
+  * TORCommunity.com (currently unavailable out of a server outage):
     * SWTOR Database.
     * Character Designer.
     * NPC viewer's Exporter.
@@ -95,6 +84,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
   * [Other Extracting Strategies (needs updating).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-strategies)
   * SWTOR Materials recipes:
     * [SWTOR’s holosigns: how to make them work in Blender.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-holographic-signs-and-how-to-make-them-work)
+
 ***
 
 ### MODDING (to do)
@@ -121,4 +111,4 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 ### OTHER RESOURCES:
 * [Articles, lectures and talks about SWTOR's development.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Articles,-lectures-and-talks)
-* [**Playing SWTOR on MacOS and Linux.**](https://github.com/SWTOR-Slicers/WikiPedia/wiki/playing-swtor-on-other-operating-systems)
+* [**Playing SWTOR on macOS and Linux.**](https://github.com/SWTOR-Slicers/WikiPedia/wiki/playing-swtor-on-other-operating-systems)
