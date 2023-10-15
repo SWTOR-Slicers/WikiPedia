@@ -20,31 +20,39 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 ***
 
-* [**IMPORTING SWTOR MODELS INTO BLENDER: AN OVERVIEW**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-SWTOR-models-into-Blender-An-overview)  
-  
-  (**Check that intro first. Afterwards, you can jump directly to the guides on extracting PCs, NPCs and others**, but eventually you'll want to check these ones for each of the current tools, which are):  
-  * [Slicers GUI (Windows app).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)
-  * Blender 3D (free, open source app): **How to install Blender Add-ons.**
-  * SWTOR's .gr2 Importer Add-on.
+### INTRODUCTION
+
+ [**IMPORTING SWTOR MODELS INTO BLENDER: A BRIEF OVERVIEW**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-SWTOR-models-into-Blender-An-overview)  
+  **Check this intro first. Afterwards, you can jump directly to the guides on extracting PCs, NPCs and others**. 
+
+***
+
+### TOOLS
+**No need to read this section right now: each extracting/assembling guide explains its required tools anyway.**
+
+  * [Slicers GUI](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets) (Windows app).
+  * [Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender) (multiplatform app):  
+    **How to install our Blender Add-ons.**
+  * [SWTOR Objects Importer Add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/tree/master).
   * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-the-character-with-the-Character-Assembler-Add-on)
   * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
   * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).
-  * Jedipedia.net:
+  * [Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia):
     * SWTOR Database.
     * File Reader.
     * World Viewer.
-  * TORCommunity.com (currently unavailable out of server outage):
+  * [TORCommunity.com](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity) (currently unavailable out of a server outage):
     * SWTOR Database.
     * Character Designer.
     * NPC viewer's Exporter.
-  * [EasyMYP (Windows app, **deprecated**).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-EasyMYP)
+  * [EasyMYP](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-EasyMYP) (Windows app, **deprecated**).
   * Noesis (Windows app, **deprecated**).
 
 ***
 
 ### THE COMPLETE GUIDE TO AUTO-EXTRACTING AND ASSEMBLING PLAYER CHARACTERS AND NPCs:
 
-  * [Read the broad strokes first: you'll see it's easier than you think!](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)
+**[READ THE BROAD STROKES FIRST: YOU'LL SEE IT'S EASIER THAN YOU THINK!](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**
   * The steps:
     * [Installing Slicers GUI and extracting SWTOR's game assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)
     * [Using TORCommunity's Character Designer to export Player Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity-Character-Designer)
@@ -74,6 +82,8 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 * [Assembling SWTOR Game Areas with Jedipedia.net data and the SWTOR Area Assembler Addon](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
 
+***
+
 ### LOCATING AND ASSEMBLING ASSETS MANUALLY:
 
 * [Locating armor parts' assets](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-Armor-Parts-Assets)
@@ -84,7 +94,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 ***
 
-### OTHER GUIDES:
+### OTHER GUIDES (WIP):
 
   * [Snippets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Snippets)
   * Improving and customizing our SWTOR models and materials.
@@ -95,6 +105,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
   * [Other Extracting Strategies (needs updating).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-strategies)
   * SWTOR Materials recipes:
     * [SWTOR’s holosigns: how to make them work in Blender.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-holographic-signs-and-how-to-make-them-work)
+
 ***
 
 ### MODDING (to do)
@@ -121,4 +132,4 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 ### OTHER RESOURCES:
 * [Articles, lectures and talks about SWTOR's development.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Articles,-lectures-and-talks)
-* [**Playing SWTOR on MacOS and Linux.**](https://github.com/SWTOR-Slicers/WikiPedia/wiki/playing-swtor-on-other-operating-systems)
+* [**Playing SWTOR on macOS and Linux.**](https://github.com/SWTOR-Slicers/WikiPedia/wiki/playing-swtor-on-other-operating-systems)
