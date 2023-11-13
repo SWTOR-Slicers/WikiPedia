@@ -34,7 +34,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
   * [Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender) (multiplatform app):  
     **How to install our Blender Add-ons.**
   * [SWTOR Objects Importer Add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/tree/master).
-  * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Importing-the-character-with-the-Character-Assembler-Add-on)
+  * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Character-Assembler-Add-on)
   * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
   * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).
   * [Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia):
