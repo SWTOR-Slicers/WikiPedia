@@ -1,3 +1,9 @@
+# WARNING: our tools fail on Blender 4.0
+
+4.0 is a compatibility-breaking update of Blender. Please wait until we review them and solve the issue 😞.
+
+(That said, you can install 4.0 alongside 3.6: Blender keeps the preferences and add-ons of each version completely separate so that they can coexist without interfering with each other 🙂) 
+
 # Welcome to the SWTOR Slicers wiki!
 
 We are a group of swtor fans who enjoy messing with the game and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
