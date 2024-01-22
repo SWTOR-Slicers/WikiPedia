@@ -38,7 +38,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
   * [Slicers GUI](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets) (Windows app).
   * [Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender) (multiplatform app):  
-    **How to install our Blender Add-ons.**
+    **Which version. How to learn. Installing our Add-ons.**
   * [SWTOR Objects Importer Add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/tree/master).
   * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Character-Assembler-Add-on)
   * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
