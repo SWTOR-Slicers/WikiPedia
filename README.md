@@ -18,7 +18,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play January 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play February 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
@@ -42,6 +42,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
   * [SWTOR Objects Importer Add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/tree/master).
   * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Character-Assembler-Add-on)
   * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
+  * [SWTOR Terrain Extractor Command Line Tool](SWTOR-Terrain-Extractor).
   * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).
   * [Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia):
     * SWTOR Database.
