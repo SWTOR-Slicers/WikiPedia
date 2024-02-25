@@ -36,24 +36,31 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 ### TOOLS
 **No need to read this section right now: each extracting/assembling guide explains its required tools anyway.**
 
+#### Applications and Blender Add-on tools:
   * [Slicers GUI](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets) (Windows app).
   * [Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender) (multiplatform app):  
     **Which version. How to learn. Installing our Add-ons.**
-  * [SWTOR Objects Importer Add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/tree/master).
+  * [SWTOR .gr2 Objects Importer Add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/tree/master).  
+  **Required by all the other add-ons**.
   * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Character-Assembler-Add-on)
   * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
-  * [SWTOR Terrain Extractor Command Line Tool](SWTOR-Terrain-Extractor).
-  * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).
+    * [SWTOR Terrain Extractor Command Line Tool](SWTOR-Terrain-Extractor).
+  * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).  
+  **Includes the Character and Area Assemblers plus other diverse tools**.
+
+#### Online Tools:
   * [Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia):
     * SWTOR Database.
     * File Reader.
     * World Viewer.
-  * [TORCommunity.com](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity) (currently unavailable out of a server outage):
+  * [TORCommunity.com](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity):
     * SWTOR Database.
     * Character Designer.
     * NPC viewer's Exporter.
-  * [EasyMYP](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-EasyMYP) (Windows app, **deprecated**).
-  * Noesis (Windows app, **deprecated**).
+  
+#### Deprecated Tools:
+  * [EasyMYP](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-EasyMYP) (Windows app).
+  * Noesis (Windows app).
 
 ***
 
@@ -116,6 +123,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 ***
 
 ### MODDING (to do)
+**Modding isn't working at the moment due to SWTOR's change to a 64bit codebase. It's going to take a while 🙁.**
 * Overview.
 * Tools.
 
