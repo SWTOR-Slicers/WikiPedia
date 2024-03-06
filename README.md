@@ -1,8 +1,11 @@
-# WARNING: our tools fail on Blender 4.0
+# WARNING: our tools fail on Blender 3.6.8, 3.6.9 and 4.0
 
-4.0 is a compatibility-breaking update of Blender. Please **stay on Blender 3.6.7 LTS** or (not much) earlier until we review them and solve the issue 😞.
+Please **stay on Blender 3.6.7 LTS** or (not much) earlier until we review them and solve the issue 😞.
 
-(That said, you can install 4.0 alongside 3.6: Blender keeps the preferences and add-ons of each version completely separate so that they can coexist without interfering with each other 🙂) 
+* On 3.6.8 and 3.6.9, our SWTOR Shaders' controls disappear and the models show up as untextured black (even if the nodegroups and the textures are intact). We are investigating the issue.
+* For 4.0 we have a beta that doesn't suffer from that, but it doesn't let us add SWTOR Shaders manually (they don't appear in the Shader Editor's Add menu). 
+
+(All that said, you can install 4.0 alongside 3.6.7: Blender keeps the preferences and add-ons of each version completely separate so that they can coexist without interfering with each other 🙂) 
 
 # Welcome to the SWTOR Slicers wiki!
 
