@@ -1,6 +1,6 @@
 # WARNING: our tools fail on Blender 3.6.8, 3.6.9 and 4.0
 
-Please **stay on Blender 3.6.7 LTS** or (not much) earlier until we review them and solve the issue 😞 (you can find it in **[this list](https://ftp.nluug.nl/pub/graphics/blender//release/Blender3.6/)**).
+Please **stay on Blender 3.6.7 LTS** or (not much) earlier until we review them and solve the issue 😞 (you can find it in **[this list](https://www.blender.org/download/lts/3-6/)**).
 
 * On 3.6.8 and 3.6.9, our SWTOR Shaders' controls disappear and the models show up as untextured black (even if the nodegroups and the textures are intact). We are investigating the issue.
 * For 4.0 we have a beta that doesn't suffer from that, but it doesn't let us add SWTOR Shaders manually (they don't appear in the Shader Editor's Add menu). 
