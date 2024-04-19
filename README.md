@@ -87,6 +87,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
   * Baking the models' textures and exporting to other apps:
     * ["Baking" with Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
     * [Exporting to VRChat.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-VRChat)
+    * [Exporting to Star Wars Battlefront II.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-Battlefront-II)
     * Exporting to Unreal Engine.
     * [Exporting to Garry's Mod](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-to-Garrys-Mod-(GMod)).
     * Exporting to Tabletop Simulator.
