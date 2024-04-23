@@ -130,6 +130,8 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 **Modding isn't working at the moment due to SWTOR's change to a 64bit codebase. It's going to take a while 🙁.**
 * Overview.
 * Tools.
+* Other techniques:
+  * [Modding SWTOR textures with Special K](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Modding-SWTOR-textures-with-Special-K) **(CAUTION)**.
 
 ***
 
