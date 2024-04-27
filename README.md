@@ -85,7 +85,8 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
     * [Attaching weapons and other objects to a character.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character)
 
   * Baking the models' textures and exporting to other apps:
-    * ["Baking" with Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
+    * [Baking with Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
+    * [Baking the multiple materials of an object into a single one.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-multiple-materials-of-an-object-into-a-single-one)
     * [Exporting to VRChat.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-VRChat)
     * [Exporting to Star Wars Battlefront II.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-Battlefront-II)
     * Exporting to Unreal Engine.
