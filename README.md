@@ -1,11 +1,11 @@
-# WARNING: our tools fail on Blender 3.6.8, 3.6.9 and 4.0
+# WARNING: our tools fail on Blender 3.6.8 and higher
 
 Please **stay on Blender 3.6.7 LTS** or (not much) earlier until we review them and solve the issue 😞 (you can find it in **[this list](https://www.blender.org/download/lts/3-6/)**).
 
-* On 3.6.8 and 3.6.9, our SWTOR Shaders' controls disappear and the models show up as untextured black (even if the nodegroups and the textures are intact). We are investigating the issue.
-* For 4.0 we have a beta that doesn't suffer from that, but it doesn't let us add SWTOR Shaders manually (they don't appear in the Shader Editor's Add menu). 
+* Blender 3.6.8 came with a bug that makes our SWTOR Shaders' controls disappear and the models show up as untextured black (even if the nodegroups and the textures are intact). They corrected this on 4.0.x, it resurfaced on 4.1.0, and was corrected again in 4.1.1. We hope that a future 3.6.12 version will correct it, too, as they are aware of the issue.
+* We have a **beta of the .gr2 importer add-on** that ought to work on 4.0.x, **BUT NOT ON 4.1.x, as this version introduces late changes to Blender's API that break the object importing process**.
 
-(All that said, you can install 4.0 alongside 3.6.7: Blender keeps the preferences and add-ons of each version completely separate so that they can coexist without interfering with each other 🙂) 
+(All that said, you can install any 4.x version alongside 3.6.7: Blender keeps the preferences and add-ons of each version completely separate so that they can coexist without interfering with each other 🙂) 
 
 # Welcome to the SWTOR Slicers wiki!
 
