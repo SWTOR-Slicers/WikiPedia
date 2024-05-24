@@ -1,11 +1,9 @@
-# WARNING: our tools fail on Blender 3.6.8 and higher
+## We are now compatible with the recently released [Blender 3.6.12 LTS](https://www.blender.org/download/lts/3-6/).
 
-Please **stay on Blender 3.6.7 LTS** or (not much) earlier until we review them and solve the issue 😞 (you can find it in **[this list](https://www.blender.org/download/lts/3-6/)**).
+* There was a **Blender bug** that was making our SWTOR Shaders lose their custom panel UI (it showed up empty of inputs upon undo or reload). This started happening in Blender 3.6.8 and just now **[3.6.12](https://www.blender.org/download/lts/3-6/)** has corrected that.
+* We have a **[beta of the .gr2 importer add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/releases/tag/v4.0.1-beta)** that ought to work on 4.0.x, **BUT NOT ON 4.1.x, as this version introduces late changes to Blender's API that break the object importing process**.
 
-* Blender 3.6.8 came with a bug that makes our SWTOR Shaders' controls disappear and the models show up as untextured black (even if the nodegroups and the textures are intact). They corrected this on 4.0.x, it resurfaced on 4.1.0, and was corrected again in 4.1.1. We hope that a future 3.6.12 version will correct it, too, as they are aware of the issue.
-* We have a **beta of the .gr2 importer add-on** that ought to work on 4.0.x, **BUT NOT ON 4.1.x, as this version introduces late changes to Blender's API that break the object importing process**.
-
-(All that said, you can install any 4.x version alongside 3.6.7: Blender keeps the preferences and add-ons of each version completely separate so that they can coexist without interfering with each other 🙂) 
+Remember that **you can have as many versions of Blender as you want at once**: each major/minor version of Blender (3.5, 3.6, 4.0, etc.) keeps its own preferences and add-ons completely separate 🙂.
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -21,7 +19,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play April 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play May 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
