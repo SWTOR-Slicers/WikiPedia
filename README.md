@@ -1,9 +1,8 @@
-## We are now compatible with the recently released [Blender 3.6.12 LTS](https://www.blender.org/download/lts/3-6/).
+## We are now compatible with [Blender 4.0.2](https://download.blender.org/release/Blender4.0/).
 
-* There was a **Blender bug** that was making our SWTOR Shaders lose their custom panel UI (it showed up empty of inputs upon undo or reload). This started happening in Blender 3.6.8 and just now **[3.6.12](https://www.blender.org/download/lts/3-6/)** has corrected that.
-* We have a **[beta of the .gr2 importer add-on](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/releases/tag/v4.0.1-beta)** that ought to work on 4.0.x, **BUT NOT ON 4.1.x, as this version introduces late changes to Blender's API that break the object importing process**.
+Blender 4.1 introduced some important changes in its API we are still dealing with. In the meantime, projects started in 3.6 or 4.0 can be opened in 4.1 and 4.2 (which brings changes of its own).
 
-Remember that **you can have as many versions of Blender as you want at once**: each major/minor version of Blender (3.5, 3.6, 4.0, etc.) keeps its own preferences and add-ons completely separate 🙂.
+Remember that **you can have as many versions of Blender as you want at once** without any clashing: each major/minor version of Blender (3.5, 3.6, 4.0, etc.) keeps its own preferences and add-ons completely separate 🙂.
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -15,11 +14,12 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 (We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
 
+
 ***
 
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play May 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play July 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
@@ -47,7 +47,14 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
   * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
     * [SWTOR Terrain Extractor Command Line Tool](SWTOR-Terrain-Extractor).
   * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).  
-  **Includes the Character and Area Assemblers plus other diverse tools**.
+    **Includes the Character and Area Assemblers plus other diverse tools**.
+    * [Installation and Status Panel](ZG-SWTOR-Tools-Installation-and-Status-Panel)
+    *  [Area Assembler Tools](ZG-SWTOR-Area-Tools)
+    *  [Character Assembler Tools](ZG-SWTOR-Character-Tools)
+    *  [Materials Tools](ZG-SWTOR-Materials-Tools)
+    *  [Objects Tools](ZG-SWTOR-Objects-Tools)
+    *  [Pose And Sculpt Tools](ZG-SWTOR-Pose-and-Sculpt-Tools)
+    *  [Baking Tools](ZG-SWTOR-Baking-Tools)
 
 #### Online Tools:
   * [Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia):
@@ -82,7 +89,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
     * [Locating weapons' assets manually.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-weapons-assets)
     * [Attaching weapons and other objects to a character **with a SWTOR rig**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character)
     * [Attaching weapons and other objects to a character **with a custom rig**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character-with-custom-rigs)
-
+  
   * Baking the models' textures and exporting to other apps:
     * [Baking with Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
     * [Baking the multiple materials of an object into a single one.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-multiple-materials-of-an-object-into-a-single-one)
