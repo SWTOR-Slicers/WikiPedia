@@ -1,8 +1,4 @@
-## We are now compatible with [Blender 4.0.2](https://download.blender.org/release/Blender4.0/).
-
-Blender 4.1 introduced some important changes in its API we are still dealing with. In the meantime, projects started in 3.6 or 4.0 can be opened in 4.1 and 4.2 (which brings changes of its own).
-
-Remember that **you can have as many versions of Blender as you want at once** without any clashing: each major/minor version of Blender (3.5, 3.6, 4.0, etc.) keeps its own preferences and add-ons completely separate 🙂.
+## We are Blender 4.1/4.2-compatible now!!! 🙂
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -19,7 +15,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play July 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play September 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
