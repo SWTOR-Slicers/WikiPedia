@@ -1,4 +1,5 @@
-## We are Blender 4.1/4.2-compatible now!!! 🙂
+ ## Blender 4.3 breaks our SWTOR materials! Stay on 4.2 or older.
+**4.3 fully deprecates SWTOR-style clip opacity, so, we have to implement it via nodes, which will take a liitle while.**
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -15,7 +16,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play September 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play November 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
