@@ -1,4 +1,9 @@
-## We are Blender 4.1/4.2-compatible now!!! 🙂
+### Blender 4.3 breaks our SWTOR materials-processing tools! Stay on 4.2 or older.
+That said, **you can open 4.2 projects in 4.3** and the existing SWTOR materials will work (you can install as many versions of Blender you want at once and have them coexist without tripping each other).
+
+
+### New tool: [ExtracTOR](https://github.com/UltimaKaosXIII/extracTOR).
+ **Meant to replace Slicers GUI**, it's a pure game assets extractor app by fellow slicer **[UltimaKaosXIII](https://github.com/UltimaKaosXIII)** that spares us the complications of the former tool. **You can take advantage of it already while we update these guides**.
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -6,16 +11,17 @@ We are a group of swtor fans who enjoy messing with the game and pulling out mod
 
 In this Wiki we pool all the knowledge we are gathering on SWTOR's data and how to use it, be it to discover what Broadsword is cooking (datamining), to enhance our SWTOR experience by changing the game's looks (modding, sadly on hiatus at the moment as the tools need upgrading), or to make art out of the game's assets and immortalize our player characters through other 3D apps or even 3D-printing (extracting). Bear with us: it's far easier than it looks 🙂.
 
-We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), where you will be able to interact with fellow hobbyists in a direct manner, find help if you get stuck, and even contribute if you feel like it.
+We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.gg/XfHFjSN), where you will be able to interact with fellow hobbyists in a direct manner, find help if you get stuck, and even contribute if you feel like it.
 
-(We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
-
+(You can find a few of us in the popular **SWTOR Artists Discord Server**'s 3d art channels, too)
 
 ***
+(We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
 
+***
 # Table of Contents
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play September 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play November 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
@@ -39,10 +45,13 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
     **Which version. How to learn. Installing our Add-ons.**
   * [SWTOR .gr2 Objects Importer Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/gr2-Importer-Add‐on).  
   **Required by all the other add-ons**.
-  * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Character-Assembler-Add-on)
-  * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
+  * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Character-Assembler-Add-on)  
+  **(In maintenance. Use the ZG SWTOR Tools' version for now**)
+
+  * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).  
+  (**In maintenance. Use the ZG SWTOR Tools' version for now**)
     * [SWTOR Terrain Extractor Command Line Tool](SWTOR-Terrain-Extractor).
-  * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).  
+  * [ZeroGravitas' ZG SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).  
     **Includes the Character and Area Assemblers plus other diverse tools**.
     * [Installation and Status Panel](ZG-SWTOR-Tools-Installation-and-Status-Panel)
     *  [Area Assembler Tools](ZG-SWTOR-Area-Tools)
@@ -145,7 +154,7 @@ We encourage you to join our [**Discord Server**](https://discord.gg/XfHFjSN), w
 ***
 
 ### SWTOR TECHNICAL INFORMATION:
-* File Formats
+* File Formats (**32-bit. Needs updating to 64-bit**):
   * [Overview.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/File-Formats)
   * [gr2 Structure.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/GR2-File-Structure)
   * [jba Structure.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JBA-File-Structure)
