@@ -1,15 +1,12 @@
-<<<<<<< HEAD
+
 ### Blender 4.3 breaks our SWTOR materials-processing tools! Stay on 4.2 or older.
 That said, **you can open 4.2 projects in 4.3** and the existing SWTOR materials will work (you can install as many versions of Blender you want at once and have them coexist without tripping each other).
 
 
 ### New tool: [ExtracTOR](https://github.com/UltimaKaosXIII/extracTOR).
- **Meant to replace Slicers GUI**, it's a pure game assets extractor app by fellow slicer **[UltimaKaosXIII](https://github.com/UltimaKaosXIII)** that spares us the complications of the former tool. **You can take advantage of it already while we update these guides**.
-=======
- ## Blender 4.3 breaks our SWTOR materials! Stay on 4.2 or older.
-**4.3 fully deprecates SWTOR-style clip opacity, so, we have to implement it via nodes, which will take a liitle while.**
->>>>>>> 1e523d5e03bc9a5786ae3222254d59974a381463
+**Meant to replace Slicers GUI**, it's a pure game assets extractor app by fellow slicer **[UltimaKaosXIII](https://github.com/UltimaKaosXIII)** that spares us the complications of the former tool. **You can take advantage of it already while we update these guides**.
 
+*** 
 # Welcome to the SWTOR Slicers wiki!
 
 We are a group of swtor fans who enjoy messing with the game and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
