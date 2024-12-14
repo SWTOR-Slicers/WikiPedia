@@ -1,5 +1,5 @@
 ### • Game Update 7.6 breaks our Character Assembler.
- It's meant to use the old skin textures, and the update only preserves a few of them. **DON'T OVERWRITE OR DELETE YOUR OLDER ASSETS EXTRACTION** (if you want to extract the update's new assets, do it to a separate folder). We are looking for a solution that allows to use both.
+ It's meant to use the old skin textures, and the update only preserves a few of them. **DON'T OVERWRITE OR DELETE YOUR OLDER ASSETS EXTRACTION** (if you want to extract the update's new assets, do it to a separate folder). We are looking for a solution that allows to use both sets.
 
 ### • Blender 4.3 breaks our SWTOR materials-processing tools! Stay on 4.2 or older.
 That said, **you can open 4.2 projects in 4.3** and the existing SWTOR materials will work (you can install as many versions of Blender you want at once and have them coexist without tripping each other).
