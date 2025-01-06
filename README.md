@@ -41,28 +41,26 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 ***
 
 ### TOOLS
+**No need to read this section right now: each extracting/assembling guide explains its required tools anyway.**
 
-#### Downloadable Tools **[(All Links Page)](https://github.com/SWTOR-Slicers/Essential-Tools-Downloads-and-Guides/)**:
-
-  * **(NEW)** **[ExtracTOR](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)** Windows app.  
-    (Replaces the old Slicers GUI app)
-
-  * **[Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender)** Windows/Mac/Linux app.  
-
-  * **[SWTOR .gr2 Objects Importer](https://github.com/SWTOR-Slicers/WikiPedia/wiki/gr2-Importer-Add‐on)** Blender Add-on.  
-  **Required by other add-ons**.
-
-  * **[ZG SWTOR Tools](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender)** Blender Add-on:
-    * [Installation and Status Panel](ZG-SWTOR-Tools-Installation-and-Status-Panel).
-    *  **[Area Assembler Tools](ZG-SWTOR-Area-Tools)**.
-    *  **[Character Assembler Tools](ZG-SWTOR-Character-Tools)**.
-    *  [Materials Tools](ZG-SWTOR-Materials-Tools).
-    *  [Objects Tools](ZG-SWTOR-Objects-Tools).
-    *  [Pose And Sculpt Tools](ZG-SWTOR-Pose-and-Sculpt-Tools).
-    *  [Baking Tools](ZG-SWTOR-Baking-Tools).
-
-  * **[SWTOR Terrain Extractor](SWTOR-Terrain-Extractor)** Windows Command Line Tool.
-
+#### Applications and Blender Add-on tools:
+  * [Slicers GUI](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets) (Windows app).
+  * [Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender) (multiplatform app):  
+    **Which version. How to learn. Installing our Add-ons.**
+  * [SWTOR .gr2 Objects Importer Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/gr2-Importer-Add‐on).  
+  **Required by all the other add-ons**.
+  * [SWTOR Character Assembler Add-on.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Character-Assembler-Add-on)
+  * [SWTOR Area Assembler Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender).
+    * [SWTOR Terrain Extractor Command Line Tool](SWTOR-Terrain-Extractor).
+  * [ZeroGravitas SWTOR Tools Add-on](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on).  
+    **Includes the Character and Area Assemblers plus other diverse tools**.
+    * [Installation and Status Panel](ZG-SWTOR-Tools-Installation-and-Status-Panel)
+    *  [Area Assembler Tools](ZG-SWTOR-Area-Tools)
+    *  [Character Assembler Tools](ZG-SWTOR-Character-Tools)
+    *  [Materials Tools](ZG-SWTOR-Materials-Tools)
+    *  [Objects Tools](ZG-SWTOR-Objects-Tools)
+    *  [Pose And Sculpt Tools](ZG-SWTOR-Pose-and-Sculpt-Tools)
+    *  [Baking Tools](ZG-SWTOR-Baking-Tools)
 
 #### Online Tools:
   * **[Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia)**:
@@ -156,8 +154,7 @@ Basically, use **[Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki
 ***
 
 ### SWTOR TECHNICAL INFORMATION:
-* File Formats:  
-  (**32-bit. Needs updating to 64-bit**):
+* File Formats
   * [Overview.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/File-Formats)
   * [gr2 Structure.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/GR2-File-Structure)
   * [jba Structure.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JBA-File-Structure)
@@ -168,4 +165,4 @@ Basically, use **[Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki
 
 ### OTHER RESOURCES:
 * [Articles, lectures and talks about SWTOR's development.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Articles,-lectures-and-talks)
-* [**Playing SWTOR on old Macs (x86) and Linux.**](https://github.com/SWTOR-Slicers/WikiPedia/wiki/playing-swtor-on-other-operating-systems)
+* [**Playing SWTOR on macOS and Linux.**](https://github.com/SWTOR-Slicers/WikiPedia/wiki/playing-swtor-on-other-operating-systems)
