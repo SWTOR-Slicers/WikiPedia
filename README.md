@@ -1,5 +1,6 @@
-### • Game Update 7.6 breaks our Character Assembler.
- It's meant to use the old skin textures, and the update only preserves a few of them. **DON'T OVERWRITE OR DELETE YOUR OLDER ASSETS EXTRACTION** (if you want to extract the update's new assets, do it to a separate folder). We are looking for a solution that allows to use both old and new materials.
+### • Game Update 7.6 broke our Character Assembler. [We have a solution in Beta](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/tag/2.0.5-beta).
+
+  Depending on which resources folder is selected in the add-on's Preferences (extracted before or after Game Update 7.6), the tool gets the correct classic or modernized results. Check the release's description for details.
 
 ### • Blender 4.3 breaks our SWTOR materials-processing tools! Stay on 4.2 or older.
 That said, **you can open 4.2 projects in 4.3** and the existing SWTOR materials will work (you can install as many versions of Blender you want at once and have them coexist without tripping each other).
@@ -25,7 +26,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 # Table of Contents
 
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play December 2024](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play January 2025](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
