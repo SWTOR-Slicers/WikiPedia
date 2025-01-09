@@ -72,7 +72,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
     * [World Viewer](https://swtor.jedipedia.net/viewer).
   
   * **[TORCommunity.com](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)**:  
-  (runs VERY slow)
+  (runs VERY slowly)
     * [SWTOR Database](https://torcommunity.com/database/search/all) (with NPC Exporters).
     * [Character Designer](https://torcommunity.com/tools/character-designer).
   
