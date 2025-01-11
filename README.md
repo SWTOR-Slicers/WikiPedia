@@ -45,7 +45,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 #### Downloadable Tools **[(All Links Page)](https://github.com/SWTOR-Slicers/Essential-Tools-Downloads-and-Guides/)**:
 
-  * **(NEW)** **[ExtracTOR](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)** Windows app.  
+  * **(NEW)** **[ExtracTOR](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ExtracTOR)** Windows app.  
     (Replaces the old Slicers GUI app)
 
   * **[Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender)** Windows/Mac/Linux app.  
@@ -86,7 +86,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 **[READ THE BROAD STROKES FIRST: YOU'LL SEE IT'S EASIER THAN YOU THINK!](https://github.com/SWTOR-Slicers/WikiPedia/wiki/locating-swtor-characters-assets-automatically)**
   * The steps:
-    * [Extracting SWTOR's game assets with ExtracTOR (WIP).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets)
+    * [Extracting SWTOR's game assets with ExtracTOR (WIP).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-ExtracTOR-and-extracting-the-game-assets)
     * [Using TORCommunity's Character Designer to export Player Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity-Character-Designer)
       * **IF ARMOR SELECTION SEARCH IS DOWN:** [workaround to manually specify Armor Sets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORC-Character-Designer-and-Manually-Creating-Armor-Sets)
     * [Using TORCommunity's NPCs Database to export Non Playable Characters.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Using-TORCommunity-NPCs-Database)
