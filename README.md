@@ -1,13 +1,8 @@
-### • Game Update 7.6 broke our Character Assembler. [We have a solution in Beta](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/tag/2.0.5-beta).
-
-  Depending on which resources folder is selected in the add-on's Preferences (extracted before or after Game Update 7.6), the tool gets the correct classic or modernized results. Check the release's description for details.
-
-### • Blender 4.3 breaks our SWTOR materials-processing tools! Stay on 4.2 or older.
-That said, **you can open 4.2 projects in 4.3** and the existing SWTOR materials will work (you can install as many versions of Blender you want at once and have them coexist without tripping each other).
+* ### Blender 4.3 breaks our SWTOR materials-processing tools! Stay on 4.2 or older.
 
 
-### • New tool: [ExtracTOR](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Installing-Slicers-GUI-and-extracting-SWTOR-game-assets).
- **Meant to replace Slicers GUI**, it's a pure game assets extractor app by fellow slicer **[UltimaKaosXIII](https://github.com/UltimaKaosXIII)** that spares us the complications of the former tool. **You can take advantage of it already while we update these guides**.
+* ### We have a workable solution to using SWTOR Game Update 7.6' new modernized skin materials. Please update both the .gr2 Importer and the ZG SWTOR Tools Add-ons.
+* ### We seem to have fully solved NPC importing, including non-Creature-type NPCs.
 
 # Welcome to the SWTOR Slicers wiki!
 
