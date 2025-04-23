@@ -18,8 +18,6 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 (We do not condone the usage of our tools for malicious intent, including: **exploits**, **harassment of others**, or anything else that may violate EA/Bioware's [EULA](https://www.swtor.com/legalnotices/euala), [TOS](http://www.swtor.com/legalnotices/termsofservice), [DSA](https://www.swtor.com/legalnotices/digitalservicesagreement), [Privacy Policy](https://www.swtor.com/legalnotices/privacypolicy) Copyrights, Trademarks, or anything else illegal. We will not be held accountable for your actions, and will act against you if it becomes necessary)
 
 ***
-# Table of Contents
-
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
 * **[State of Play February 2025](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
@@ -36,44 +34,43 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 ***
 
-### TOOLS
+### DOWNLOADABLE TOOLS:
 
-#### Downloadable Tools **[(All Links Page)](https://github.com/SWTOR-Slicers/Essential-Tools-Downloads-and-Guides/)**:
+* **ExtracTOR (Windows app)**:  
+  Extracts the game assets from SWTOR's files.  
+  **[Download](https://github.com/UltimaKaosXIII/extracTOR/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ExtracTOR)**.
+  
+* **Blender (Windows/macOS/Linux app)**:  
+  popular free, open source 3D app.  
+  **[Download](https://www.blender.org/download/lts/)** - **[User Guide](https://www.blender.org/support/)** - **[Short videoguides](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)**
 
-  * **(NEW)** **[ExtracTOR](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ExtracTOR)** Windows app.  
-    (Replaces the old Slicers GUI app)
+* **.gr2 Import/Export Add-on for Blender**:  
+  imports 3D models in SWTOR's .gr2 format.  
+  **[Download](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x#swtor-granny2-gr2-importexport-add-on-for-blender-28-to-42)**.
 
-  * **[Blender 3D](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Blender)** Windows/Mac/Linux app.  
+* **ZG SWTOR Tools Add-on for Blender**:  
+  includes Character and Area Assemblers.  
+  **[Download](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on)**.
 
-  * **[SWTOR .gr2 Objects Importer](https://github.com/SWTOR-Slicers/WikiPedia/wiki/gr2-Importer-Add‐on)** Blender Add-on.  
-  **Required by other add-ons**.
+* **SWTOR Terrain Extractor (Windows command line executable)**:  
+  makes SWTOR terrain patches usable in 3D apps.  
+  **[Download](https://github.com/UltimaKaosXIII/STE2/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-Terrain-Extractor)**.
 
-  * **[ZG SWTOR Tools](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-SWTOR-Game-Areas-via-the-SWTOR-Area-Assembler-Addon-for-Blender)** Blender Add-on:
-    * [Installation and Status Panel](ZG-SWTOR-Tools-Installation-and-Status-Panel).
-    *  **[Area Assembler Tools](ZG-SWTOR-Area-Tools)**.
-    *  **[Character Assembler Tools](ZG-SWTOR-Character-Tools)**.
-    *  [Materials Tools](ZG-SWTOR-Materials-Tools).
-    *  [Objects Tools](ZG-SWTOR-Objects-Tools).
-    *  [Pose And Sculpt Tools](ZG-SWTOR-Pose-and-Sculpt-Tools).
-    *  [Baking Tools](ZG-SWTOR-Baking-Tools).
+(Older tools like Slicers GUI, Noesis, or EasyMYP, are no longer needed, supported, or compatible)
 
-  * **[SWTOR Terrain Extractor](SWTOR-Terrain-Extractor)** Windows Command Line Tool.
+### ONLINE TOOLS:
 
+  * **[TORCommunity.com](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)**:  
+  (warning: it runs VERY slowly)
+    * [SWTOR Database](https://torcommunity.com/database/search/all) (with NPC Exporters).
+    * [Character Designer](https://torcommunity.com/tools/character-designer).
 
-#### Online Tools:
   * **[Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia)**:
     * [SWTOR Database](https://swtor.jedipedia.net/en).
     * [File Reader](https://swtor.jedipedia.net/reader).
     * [World Viewer](https://swtor.jedipedia.net/viewer).
   
-  * **[TORCommunity.com](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)**:  
-  (runs VERY slowly)
-    * [SWTOR Database](https://torcommunity.com/database/search/all) (with NPC Exporters).
-    * [Character Designer](https://torcommunity.com/tools/character-designer).
-  
-#### No longer working:
-  * **[EasyMYP](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Extracting-SWTOR-assets-with-EasyMYP)** Windows app.
-  * **Noesis** Windows app.
+
 
 ***
 
