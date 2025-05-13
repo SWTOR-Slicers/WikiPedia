@@ -1,8 +1,5 @@
-* ### Blender 4.3 breaks our SWTOR materials-processing tools! Stay on 4.2 or older.
-
-
+* ### We are now compatible with Blender 4.3 and higher.
 * ### We have a workable solution to using SWTOR Game Update 7.6' new modernized skin materials. Please update both the .gr2 Importer and the ZG SWTOR Tools Add-ons.
-* ### We seem to have fully solved NPC importing, including non-Creature-type NPCs.
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -36,27 +33,26 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 ### DOWNLOADABLE TOOLS:
 
-* **ExtracTOR (Windows app)**:  
-  Extracts the game assets from SWTOR's files.  
+* **ExtracTOR (Windows app)**: extracts the game assets from SWTOR's files.  
   **[Download](https://github.com/UltimaKaosXIII/extracTOR/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ExtracTOR)**.
   
-* **Blender (Windows/macOS/Linux app)**:  
-  popular free, open source 3D app.  
+* **Blender (Windows/macOS/Linux app)**: popular free, open source 3D app.  
   **[Download](https://www.blender.org/download/lts/)** - **[User Guide](https://www.blender.org/support/)** - **[Short videoguides](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)**
 
-* **.gr2 Import/Export Add-on for Blender**:  
-  imports 3D models in SWTOR's .gr2 format.  
+
+* **.gr2 Import/Export Add-on for Blender**: imports 3D models in SWTOR's .gr2 format.  
   **[Download](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x#swtor-granny2-gr2-importexport-add-on-for-blender-28-to-42)**.
 
-* **ZG SWTOR Tools Add-on for Blender**:  
-  includes Character and Area Assemblers.  
-  **[Download](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on)**.
+* **ZG SWTOR Tools Add-on for Blender**: includes Character and Area Assemblers.  
+  **[Download (incl. .gr2 Add-on)](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on)**.
 
-* **SWTOR Terrain Extractor (Windows command line executable)**:  
-  makes SWTOR terrain patches usable in 3D apps.  
+* **SWTOR Terrain Extractor (Windows command line executable)**: makes SWTOR terrain patches usable by our tools.  
   **[Download](https://github.com/UltimaKaosXIII/STE2/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-Terrain-Extractor)**.
 
-(Older tools like Slicers GUI, Noesis, or EasyMYP, are no longer needed, supported, or compatible)
+(Older tools like Slicers GUI, Noesis, or EasyMYP, are no longer needed, supported, or compatible at all)
+
+
+
 
 ### ONLINE TOOLS:
 
@@ -92,9 +88,11 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
     * [Attaching weapons and other objects to a character **with a SWTOR rig**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character)
     * [Attaching weapons and other objects to a character **with a custom rig**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Attaching-weapons-and-other-objects-to-a-character-with-custom-rigs)
   
-  * Baking the models' textures and exporting to other apps:
-    * [Baking with Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
-    * [Baking the multiple materials of an object into a single one.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-multiple-materials-of-an-object-into-a-single-one)
+### Baking the models' textures and exporting to other apps:
+  * Baking:
+    * [Baking Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
+    * [Baking an object's multiple materials into a single one.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-multiple-materials-of-an-object-into-a-single-one)
+  * Exporting to other apps:
     * [Exporting to VRChat.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-VRChat)
     * [Exporting to Star Wars Battlefront II.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-Battlefront-II)
     * Exporting to Unreal Engine.
