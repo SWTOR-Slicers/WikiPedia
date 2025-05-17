@@ -135,7 +135,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 ***
 
 ### MODDING
-**Modding isn't working since SWTOR moved to 64-bit codebase. Unless a new coder takes charge, it'll stay so indefinitely.**
+**We have resumed modding tool development. Stay tuned for tools and tutorials.**
 * Alternative techniques:
   * [Modding SWTOR textures with Special K](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Modding-SWTOR-textures-with-Special-K) **(USE CAUTION)**.
 
