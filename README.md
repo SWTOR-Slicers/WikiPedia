@@ -1,5 +1,6 @@
 * ### We are now compatible with Blender 4.3 and higher.
 * ### We have a workable solution to using SWTOR Game Update 7.6' new modernized skin materials. Please update both the .gr2 Importer and the ZG SWTOR Tools Add-ons.
+* ### TORCommunity.com's Character Designer doesn't support selecting the new skin colors available with Game Update 7.7 or higher. That said, the colors can be recreated with our materials' Hue-Saturation-Brightness-Contrast controls, after the character has been assembled.
 
 # Welcome to the SWTOR Slicers wiki!
 
