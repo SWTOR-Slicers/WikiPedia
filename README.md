@@ -35,20 +35,20 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 ### DOWNLOADABLE TOOLS:
 
 * **ExtracTOR (Windows app)**: extracts the game assets from SWTOR's files.  
-  **[Download](https://github.com/UltimaKaosXIII/extracTOR/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ExtracTOR)**.
+  **[Download](https://github.com/UltimaKaosXIII/extracTOR/releases/latest)** - **[Guides](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ExtracTOR)**.
   
 * **Blender (Windows/macOS/Linux app)**: popular free, open source 3D app.  
-  **[Download](https://www.blender.org/download/lts/)** - **[User Guide](https://www.blender.org/support/)** - **[Short videoguides](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)**
+  **[Download](https://www.blender.org/download/lts/)** - **[Guides](https://www.blender.org/support/)** - **[Short videoguides](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)**
 
 
 * **.gr2 Import/Export Add-on for Blender**: imports 3D models in SWTOR's .gr2 format.  
-  **[Download](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x#swtor-granny2-gr2-importexport-add-on-for-blender-28-to-42)**.
+  **[Download .gr2 and ZG Add-ons](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)** - **[Guides](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x#swtor-granny2-gr2-importexport-add-on-for-blender-28-to-42)**.
 
 * **ZG SWTOR Tools Add-on for Blender**: includes Character and Area Assemblers.  
-  **[Download (incl. .gr2 Add-on)](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on)**.
+  **[Download .gr2 and ZG Add-ons](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)** - **[Guides](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on)**.
 
-* **SWTOR Terrain Extractor (Windows command line executable)**: makes SWTOR terrain patches usable by our tools.  
-  **[Download](https://github.com/UltimaKaosXIII/STE2/releases/latest)** - **[User Guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-Terrain-Extractor)**.
+* **SWTOR Terrain Extractor (Windows command line executable)**: pre-converts SWTOR's ground patches files to a format (.obj) readable by our tools:    
+  **[Download](https://github.com/UltimaKaosXIII/STE2/releases/latest)** - **[Guides](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-Terrain-Extractor)**.
 
 (Older tools like Slicers GUI, Noesis, or EasyMYP, are no longer needed, supported, or compatible at all)
 
