@@ -50,6 +50,11 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 * **SWTOR Terrain Extractor (Windows command line executable)**: pre-converts SWTOR's ground patches files to a format (.obj) readable by our tools:    
   **[Download](https://github.com/UltimaKaosXIII/STE2/releases/latest)** - **[Guides](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-Terrain-Extractor)**.
 
+* **JC SWTOR Tools Add-on** for Blender (3.6):  
+  Character, Gear, Dye, and NPC importer that doesn't use TORCommunity.com data:  
+  **[Download](https://github.com/jecandone/JC-SWTOR-Tools/releases/latest)** - **[User Guides](https://github.com/jecandone/JC-SWTOR-Tools)**  
+  **[Requires installing matched .gr2 and ZG add-ons, too](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)**.
+
 (Older tools like Slicers GUI, Noesis, or EasyMYP, are no longer needed, supported, or compatible at all)
 
 
@@ -136,7 +141,8 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 ***
 
 ### MODDING
-**We have resumed modding tool development. Stay tuned for tools and tutorials.**
+**We have resumed modding tool development. Stay tuned for tools and tutorials.  
+Meanwhile, visit [our Discord](https://discord.gg/XfHFjSN)'s Modding channel**
 * Alternative techniques:
   * [Modding SWTOR textures with Special K](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Modding-SWTOR-textures-with-Special-K) **(USE CAUTION)**.
 
