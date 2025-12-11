@@ -1,4 +1,4 @@
-* ### Blender 5.0 breaks our materials. Stay on 4.5 or earlier.
+* ### We are now Blender 5.0-compatible (fingers crossed).
 * ### TORCommunity.com's Character Designer doesn't support selecting the new skin colors available with Game Update 7.7 or higher. That said, the colors can be recreated with our materials' Hue-Saturation-Brightness-Contrast controls, after the character has been assembled.
 
 # Welcome to the SWTOR Slicers wiki!
@@ -16,7 +16,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 ***
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play May 2025](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play Dic 2025](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
