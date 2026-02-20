@@ -68,7 +68,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
   * **[Jedipedia.net](https://github.com/SWTOR-Slicers/WikiPedia/wiki/JediPedia)**:
     * [SWTOR Database](https://swtor.jedipedia.net/en).
-    * [File Reader](https://swtor.jedipedia.net/reader).
+    * [File Reader](https://swtor.jedipedia.net/reader) ([provisional guide](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Jedipedia-File-Reader)).
     * [World Viewer](https://swtor.jedipedia.net/viewer).
   
 
