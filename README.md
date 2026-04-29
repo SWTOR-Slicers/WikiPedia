@@ -95,7 +95,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
   
 ### Baking the models' textures and exporting to other apps:
   * Baking:
-    * [Baking Legacy SWTOR materials and modern ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
+    * [Converting SWTOR materials to baking-friendly ones.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-models-to-export-them-to-other-apps)
     * [Baking an object's multiple materials into a single one.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Baking-the-multiple-materials-of-an-object-into-a-single-one)
   * Exporting to other apps:
     * [Exporting to VRChat.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Exporting-SWTOR-models-to-VRChat)
