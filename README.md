@@ -1,5 +1,5 @@
-* ### We are now Blender 5.0-compatible (fingers crossed).
-* ### TORCommunity.com's Character Designer doesn't support selecting the new skin colors available with Game Update 7.7 or higher. That said, the colors can be recreated with our materials' Hue-Saturation-Brightness-Contrast controls, after the character has been assembled.
+* ### We are provisionally Blender 5.2 LTS-compatible (fingers crossed).
+* ### TORCommunity.com's Character Designer is down most of the time. Check our **[State of Play August 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)** page on the matter.
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -16,7 +16,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 ***
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play June 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play August 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
@@ -117,8 +117,8 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 ### LOCATING AND ASSEMBLING ASSETS MANUALLY:
 
-* [Locating Player Characters' head assets through their Appearance Designer sliders data.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Understanding-In-Game-Head-Slider-Values)
-* [Locating armor parts' assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-Armor-Parts-Assets)
+* [**Locating Player Characters' head assets through their Appearance Designer sliders data**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Understanding-In-Game-Head-Slider-Values)
+* [**Locating armor parts' assets**.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-Armor-Parts-Assets)
 * [Locating weapons' assets.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Locating-weapons-assets)
 * [Assigning materials and textures to environmental and architectural elements, furniture, props, ships, vehicles and weapons.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assigning-materials-and-textures-to-environmental-and-architectural-elements,-furniture,-props,-ships,-vehicles-and-weapons)
 * [Assembling multi-part assets (Decorations, Rooms, etc).](https://github.com/SWTOR-Slicers/WikiPedia/wiki/Assembling-Multi-Part-Assets-(Decorations,-Rooms,-etc))
