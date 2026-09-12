@@ -1,5 +1,5 @@
-* ### We are provisionally Blender 5.2 LTS-compatible (fingers crossed).
-* ### TORCommunity.com's Character Designer is down most of the time. Check our **[State of Play August 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)** page on the matter.
+* ### We are provisionally Blender 5.2 LTS-compatible.
+* ### TORCommunity.com's Character Designer is mostly dead. Check our **[State of Play September 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)** page to see how that affects Player Character and NPC assembling. This wiki will have to be updated to reflect the new situation.
 
 # Welcome to the SWTOR Slicers wiki!
 
@@ -16,7 +16,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 ***
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play August 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play September 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
