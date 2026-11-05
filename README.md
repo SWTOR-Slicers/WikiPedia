@@ -1,7 +1,38 @@
-* ### We are provisionally Blender 5.2 LTS-compatible.
-* ### TORCommunity.com's Character Designer is mostly dead. Check our **[State of Play September 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)** page to see how that affects Player Character and NPC assembling. This wiki will have to be updated to reflect the new situation.
+## LATEST NEWS:
+* ### New SWTOR IO Tools Blender add-on. Test the Beta release!
+  **[SWTOR IO Tools](https://github.com/UnconventionalError/SWTOR-Import-Export-Tools/releases)** is a new Blender add-on that puts under a single umbrella vastly improved versions of our tools. We expect it to replace both **Darth Atroxa's** [**.gr2 importer add-on**](https://github.com/SWTOR-Slicers/Granny2-Plug-In-Blender-2.8x) and separate tools like the [**ZG SWTOR Tools**](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools)' **Area and Character Assemblers**.
+
+  This new add-on provides:
+  * Improved .gr2 object and skeletons import.
+  * **Cloth physics!**
+  * **64 bit animations!**
+  * Conventional SWTOR materials (no custom panels, .blend template file-based for easy maintenance) that are far easier to modify and customize. Smart to conventional materials converter. The old smart materials are still available. New supported materials!
+  * **Character Assembler** that grabs the assets directly from a game asset extraction. 
+  * **Area Assembler** that imports and textures terrain patches, scatters objects (grass, rocks, etc.), and many other improvements.
+  * fxspec-defined objects import (decorations, etc.).
+  * Etc.
+
+    (.gr2 export for modding isn't tested yet, specially because it intends to support attachments)
+
+  **Fellow Slicer Crunch (AKA [UnconventionalError](https://github.com/UnconventionalError)) has been working on this for months**, with help from Jedipedia.net developer **C-3PO**, contributions by **Captn. Koda**, and others. We hope to be able to deprecate the older tools (which we'll keep around for those who still need them: people who have built their own tools around them, modders, and those that can't run Blender 4.5 and higher), and create new ones around this add-on.
+
+  You can download the latest versions [here](https://github.com/UnconventionalError/SWTOR-Import-Export-Tools/releases). It can coexist with the .gr2 Importer and with the ZG Tools in a same Blender installation, but only one of the two sets can be enabled at once to avoid issues. Please disregard the new add-on's ReadMe, as for now it is a copy of the original one and needs a full rewrite.
+
+* ### About TORCommunity.com and its Character Designer.
+  Its owner transplanted the site to a new server, so, TORC is now downraight zippy 🙂. BUT:
+  * **The Character Designer didn't survive the move**.
+  * **The site's data is still stuck in Game Update 7 or older**.
+
+  The NPC database's exporters still work, but at this moment it's better to use Jedipedia.net's ones: they are up-to-date and compatible with both the ZG SWTOR Tools' Character Assembler and the new SWTOR IO Tools' one.
+
+  There is hope that TORC can eventually be updated, but it would involve a considerable amount of work. So, for the time being and the foreseeable future, we must live without its Character Designer. There are some means to reproduce its functionality through other tools, and then there's the old manual approach.
+  
+* ### About this Wiki.
+  Obviously, given these news and previous developments, **there are whole chunks of this wiki that are no longer actionable, especially all the stuff related to automatic Player Character assembling**, and also we are lacking in guides on modding and porting (there is a ton of activity in our Discord regarding those, but very little has translated to guides). Hopefully we'll be able to do something about it once the dust settles.
+
 
 # Welcome to the SWTOR Slicers wiki!
+
 
 We are a group of swtor fans who enjoy messing with the game and pulling out models, textures, etc. This GitHub repository contains tools and guides to help you do so yourself, as well as some other things.
 
@@ -16,7 +47,7 @@ We encourage you to join our [**SWTOR Slicers Discord Server**](https://discord.
 
 ***
 * [Home.](https://github.com/SWTOR-Slicers/WikiPedia/wiki)
-* **[State of Play September 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
+* **[State of Play November 2026](https://github.com/SWTOR-Slicers/WikiPedia/wiki/state-of-play)**
 * Getting Help:
   * [Link to the SWTOR Slicers Discord Server.](https://discord.gg/XfHFjSN)
   * [TORCommunity and its online tools.](https://github.com/SWTOR-Slicers/WikiPedia/wiki/TORCommunity)
