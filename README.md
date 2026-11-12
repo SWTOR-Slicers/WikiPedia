@@ -19,7 +19,7 @@
   You can download the latest versions [here](https://github.com/UnconventionalError/SWTOR-Import-Export-Tools/releases). It can coexist with the .gr2 Importer and with the ZG Tools in a same Blender installation, but only one of the two sets can be enabled at once to avoid issues. Please disregard the new add-on's ReadMe, as for now it is a copy of the original one and needs a full rewrite.
 
 * ### About TORCommunity.com and its Character Designer.
-  Its owner transplanted the site to a new server, so, TORC is now downraight zippy 🙂. BUT:
+  Its owner transplanted the site to a new server, so, TORC is now downright zippy 🙂. BUT:
   * **The Character Designer didn't survive the move**.
   * **The site's data is still stuck in Game Update 7 or older**.
 
